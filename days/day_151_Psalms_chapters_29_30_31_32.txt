@@ -1,0 +1,88 @@
+Day 151:
+
+Reading Psalms, chapters ['29', '30', '31', '32']:
+
+  Chapter 29.
+
+    1: A psalm of a canticle, at the dedication of David's house. 
+    2: I will extol thee, O Lord, for thou hast upheld me: and hast not made my enemies to rejoice over me. 
+    3: O Lord my God, I have cried to thee, and thou hast healed me. 
+    4: Thou hast brought forth, O Lord, my soul from hell: thou hast saved me from them that go down into the pit. 
+    5: Sing to the Lord, O ye his saints: and give praise to the memory of his holiness.
+    6: For wrath is in his indignation; and life in his good will. In the evening weeping shall have place, and in the morning gladness. 
+    7: And in my abundance I said: I shall never be moved. 
+    8: O Lord, in thy favour, thou gavest strength to my beauty. Thou turnedst away thy face from me, and I became troubled. 
+    9: To thee, O Lord, will I cry: and I will make supplication to my God. 
+    10: What profit is there in my blood, whilst I go down to corruption? Shall dust confess to thee, or declare thy truth?
+    11: The Lord hath heard, and hath had mercy on me: the Lord became my helper. 
+    12: Thou hast turned for me my mourning into joy: thou hast cut my sackcloth, and hast compassed me with gladness: 
+    13: To the end that my glory may sing to thee, and I may not regret: O Lord my God, I will give praise to thee for ever.
+
+  Chapter 30.
+
+    1: Unto the end, a psalm for David, in an ecstasy. 
+    2: In thee, O Lord, have I hoped, let me never be confounded: deliver me in thy justice. 
+    3: Bow down thy ear to me: make haste to deliver me. Be thou unto me a God, a protector, and a house of refuge, to save me. 
+    4: For thou art my strength and my refuge; and for thy name's sake thou wilt lead me, and nourish me. 
+    5: Thou wilt bring me out of this snare, which they have hidden for me: for thou art my protector.
+    6: Into thy hands I commend my spirit: thou hast redeemed me, O Lord, the God of truth. 
+    7: Thou hast hated them that regard vanities, to no purpose. But I have hoped in the Lord: 
+    8: I will be glad and rejoice in thy mercy. For thou hast regarded my humility, thou hast saved my soul out of distresses. 
+    9: And thou hast not shut me up in the hands of the enemy: thou hast set my feet in a spacious place. 
+    10: Have mercy on me, O Lord, for I am afflicted: my eye is troubled with wrath, my soul, and my belly:
+    11: For my life is wasted with grief: and my years in sighs. My strength is weakened through poverty and my bones are disturbed. 
+    12: I am become a reproach among all my enemies, and very much to my neighbours; and a fear to my acquaintance. They that saw me without fled from me. 
+    13: I am forgotten as one dead from the heart. I am become as a vessel that is destroyed. 
+    14: For I have heard the blame of many that dwell round about. While they assembled together against me, they consulted to take away my life. 
+    15: But I have put my trust in thee, O Lord: I said: Thou art my God.
+    16: My lots are in thy hands. Deliver me out of the hands of my enemies; and from them that persecute me. 
+    17: Make thy face to shine upon thy servant; save me in thy mercy. 
+    18: Let me not be confounded, O Lord, for I have called upon thee. Let the wicked be ashamed, and be brought down to hell. 
+    19: Let deceitful lips be made dumb. Which speak iniquity against the just, with pride and abuse. 
+    20: O how great is the multitude of thy sweetness, O Lord, which thou hast hidden for them that fear thee! Which thou hast wrought for them that hope in thee, in the sight of the sons of men.
+    21: Thou shalt hide them in the secret of thy face, from the disturbance of men. Thou shalt protect them in thy tabernacle from the contradiction of tongues. 
+    22: Blessed be the Lord, for he hath shewn his wonderful mercy to me in a fortified city. 
+    23: But I said in the excess of my mind: I am cast away from before thy eyes. Therefore thou hast heard the voice of my prayer, when I cried to thee. 
+    24: O love the Lord, all ye his saints: for the Lord will require truth, and will repay them abundantly that act proudly. 
+    25: Do ye manfully, and let your heart be strengthened, all ye that hope in the Lord.
+
+  Chapter 31.
+
+    1: To David himself, understanding. Blessed are they whose iniquities are forgiven, and whose sins are covered. 
+    2: Blessed is the man to whom the Lord hath not imputed sin, and in whose spirit there is no guile. 
+    3: Because I was silent my bones grew old; whilst I cried out all the day long. 
+    4: For day and night thy hand was heavy upon me: I am turned in my anguish, whilst the thorn is fastened. 
+    5: I have acknowledged my sin to thee, and my injustice I have not concealed. I said I will confess against myself my injustice to the Lord: and thou hast forgiven the wickedness of my sin.
+    6: For this shall every one that is holy pray to thee in a seasonable time. And yet in a flood of many waters, they shall not come nigh unto him. 
+    7: Thou art my refuge from the trouble which hath encompassed me: my joy, deliver me from them that surround me. 
+    8: I will give thee understanding, and I will instruct thee in this way, in which thou shalt go: I will fix my eyes upon thee. 
+    9: Do not become like the horse and the mule, who have no understanding. With bit and bridle bind fast their jaws, who come not near unto thee. 
+    10: Many are the scourges of the sinner, but mercy shall encompass him that hopeth in the Lord.
+    11: Be glad in the Lord, and rejoice, ye just, and glory, all ye right of heart.
+
+  Chapter 32.
+
+    1: A psalm for David. Rejoice in the Lord, O ye just: praise becometh the upright. 
+    2: Give praise to the Lord on the harp; sing to him with the psaltery, the instrument of ten strings. 
+    3: Sing to him a new canticle, sing well unto him with a loud noise. 
+    4: For the word of the Lord is right, and all his works are done with faithfulness. 
+    5: He loveth mercy and judgment; the earth is full of the mercy of the Lord.
+    6: By the word of the Lord the heavens were established; and all the power of them by the spirit of his mouth: 
+    7: Gathering together the waters of the sea, as in a vessel; laying up the depths in storehouses. 
+    8: Let all the earth fear the Lord, and let all the inhabitants of the world be in awe of him. 
+    9: For he spoke and they were made: he commanded and they were created. 
+    10: The Lord bringeth to naught the counsels of nations; and he rejecteth the devices of people, and casteth away the counsels of princes.
+    11: But the counsel of the Lord standeth for ever: the thoughts of his heart to all generations. 
+    12: Blessed is the nation whose God is the Lord: the people whom he hath chosen for his inheritance. 
+    13: The Lord hath looked from heaven: he hath beheld all the sons of men. 
+    14: From his habitation which he hath prepared, he hath looked upon all that dwell on the earth. 
+    15: He who hath made the hearts of every one of them: who understandeth all their works.
+    16: The king is not saved by a great army: nor shall the giant be saved by his own great strength. 
+    17: Vain is the horse for safety: neither shall he be saved by the abundance of his strength. 
+    18: Behold the eyes of the Lord are on them that fear him: and on them that hope in his mercy. 
+    19: To deliver their souls from death; and feed them in famine. 
+    20: Our soul waiteth for the Lord: for he is our helper and protector.
+    21: For in him our heart shall rejoice: and in his holy name we have trusted. 
+    22: Let thy mercy, O Lord, be upon us, as we have hoped in thee.
+
+End of day 151.

@@ -1,0 +1,128 @@
+Day 188:
+
+Reading Proverbs, chapters ['25', '26', '27', '28']:
+
+  Chapter 25.
+
+    1: These are also parables of Solomon, which the men of Ezechias king of Juda copied out. 
+    2: It is the glory of God to conceal the word, and the glory of kings to search out the speech. 
+    3: The heaven above, and the earth beneath, and the heart of kings is unsearchable. 
+    4: Take away the rust from silver, and there shall come forth a most pure vessel: 
+    5: Take away wickedness from the face of the king, and his throne shall be established with justice.
+    6: Appear not glorious before the king, and stand not in the place of great men. 
+    7: For it is better that it should be said to thee: Come up hither; than that thou shouldst be humbled before the prince. 
+    8: The things which thy eyes have seen, utter not hastily in a quarrel: lest afterward thou mayst not be able to make amends, when thou hast dishonoured thy friend. 
+    9: Treat thy cause with thy friend, and discover not the secret to a stranger: 
+    10: Lest he insult over thee, when he hath heard it, and cease not to upbraid thee. Grace and friendship deliver a man: keep these for thyself, lest thou fall under reproach.
+    11: To speak a word in due time, is like apples of gold on beds of silver. 
+    12: As an earring of gold and a bright pearl, so is he that reproveth the wise, and the obedient ear. 
+    13: As the cold of snow in the time of harvest, so is a faithful messenger to him that sent him, for he refresheth his soul. 
+    14: As clouds, and wind, when no rain followeth, so is the man that boasteth, and doth not fulfill his promises. 
+    15: By patience a prince shall be appeased, and a soft tongue shall break hardness.
+    16: Thou hast found honey, eat what is sufficient for thee, lest being glutted therewith thou vomit it up. 
+    17: Withdraw thy foot from the house of thy neighbour, lest having his fill he hate thee. 
+    18: A man that beareth false witness against his neighbour, is like a dart and a sword and a sharp arrow. 
+    19: To trust to an unfaithful man in the time of trouble, is like a rotten tooth, and weary foot, 
+    20: And one that looseth his garment in cold weather. As vinegar upon nitre, so is he that singeth songs to a very evil heart. As a moth doth by a garment, and a worm by the wood: so the sadness of a man consumeth the heart.
+    21: If thy enemy be hungry, give him to eat: if he thirst, give him water to drink: 
+    22: For thou shalt heap hot coals upon his head, and the Lord will reward thee. 
+    23: The north wind driveth away rain, as doth a sad countenance a backbiting tongue. 
+    24: It is better to sit in a corner of the housetop, than with a brawling woman, and in a common house. 
+    25: As cold water to a thirsty soul, so is good tidings from a far country.
+    26: A just man falling down before the wicked, is as a fountain troubled with the foot, and a corrupted spring. 
+    27: As it is not good for a man to eat much honey, so he that is a searcher of majesty, shall be overwhelmed by glory. 
+    28: As a city that lieth open and is not compassed with walls, so is a man that cannot refrain his own spirit in speaking.
+
+  Chapter 26.
+
+    1: As snow in summer, and rain in harvest, so glory is not seemly for a fool. 
+    2: As a bird flying to other places, and a sparrow going here or there: so a curse uttered without cause shall come upon a man. 
+    3: A whip for a horse, and a snaffle for an ass, and a rod for the back of fools. 
+    4: Answer not a fool according to his folly, lest thou be made like him. 
+    5: Answer a fool according to his folly, lest he imagine himself to be wise.
+    6: He that sendeth words by a foolish messenger, is lame of feet and drinketh iniquity. 
+    7: As a lame man hath fair legs in vain: so a parable is unseemly in the mouth of fools. 
+    8: As he that casteth a stone into the heap of Mercury: so is he that giveth honour to a fool. 
+    9: As if a thorn should grow in the hand of a drunkard: so is a parable in the mouth of fools. 
+    10: Judgment determineth causes: and he that putteth a fool to silence, appeaseth anger.
+    11: As a dog that returneth to his vomit, so is the fool that repeateth his folly. 
+    12: Hast thou seen a man wise in his own conceit? there shall be more hope of a fool than of him. 
+    13: The slothful man saith: There is a lion in the way, and a lioness in the roads. 
+    14: As the door turneth upon its hinges, so doth the slothful upon his bed. 
+    15: The slothful hideth his hand under his armpit, and it grieveth him to turn it to his mouth.
+    16: The sluggard is wiser in his own conceit, than seven men that speak sentences. 
+    17: As he that taketh a dog by the ears, so is he that passeth by in anger, and meddleth with another man's quarrel. 
+    18: As he is guilty that shooteth arrows, and lances unto death: 
+    19: So is the man that hurteth his friend deceitfully: and when he is taken, saith: I did it in jest. 
+    20: When the wood faileth, the fire shall go out: and when the talebearer is taken away, contentions shall cease.
+    21: As coals are to burning coals, and wood to fire, so an angry man stirreth up strife. 
+    22: The words of a talebearer are as it were simple, but they reach to the innermost parts of the belly. 
+    23: Swelling lips joined with a corrupt heart, are like an earthen vessel adorned with silver dross. 
+    24: An enemy is known by his lips, when in his heart he entertaineth deceit. 
+    25: When he shall speak low, trust him not: because there are seven mischiefs in his heart.
+    26: He that covereth hatred deceitfully, his malice shall be laid open in the public assembly. 
+    27: He that diggeth a pit, shall fall into it: and he that rolleth a stone, it shall return to him. 
+    28: A deceitful tongue loveth not truth: and a slippery mouth worketh ruin.
+
+  Chapter 27.
+
+    1: Boast not for tomorrow, for thou knowest not what the day to come may bring forth. 
+    2: Let another praise thee, and not thy own mouth: a stranger, and not thy own lips. 
+    3: A stone is heavy, and sand weighty: but the anger of a fool is heavier than them both. 
+    4: Anger hath no mercy, nor fury when it breaketh forth: and who can bear the violence of one provoked? 
+    5: Open rebuke is better than hidden love.
+    6: Better are the wounds of a friend, than the deceitful kisses of an enemy. 
+    7: A soul that is full shall tread upon the honeycomb: and a soul that is hungry shall take even bitter for sweet. 
+    8: As a bird that wandereth from her nest, so is a man that leaveth his place. 
+    9: Ointment and perfumes rejoice the heart: and the good counsels of a friend are sweet to the soul. 
+    10: Thy own friend, and thy father's friend forsake not: and go not into thy brother's house in the day of thy affliction. Better is a neighbour that is near, than a brother afar off.
+    11: Study wisdom, my son, and make my heart joyful, that thou mayst give an answer to him that reproacheth. 
+    12: The prudent man seeing evil hideth himself: little ones passing on have suffered losses. 
+    13: Take away his garment that hath been surety for a stranger: and take from him a pledge for strangers. 
+    14: He that blesseth his neighbour with a loud voice, rising in the night, shall be like to him that curseth. 
+    15: Roofs dropping through in a cold day, and a contentious woman are alike.
+    16: He that retaineth her, is as he that would hold the wind, and shall call in the oil of his right hand. 
+    17: Iron sharpeneth iron, so a man sharpeneth the countenance of his friend. 
+    18: He that keepeth the fig tree, shall eat the fruit thereof: and he that is the keeper of his master, shall be glorified. 
+    19: As the faces of them that look therein, shine in the water, so-the hearts of men are laid open to the wise. 
+    20: Hell and destruction are never filled: so the eyes of men are never satisfied.
+    21: As silver is tried in the fining-pot and gold in the furnace: so a man is tried by the mouth of him that praiseth. The heart of the wicked seeketh after evils, but the righteous heart seeketh after knowledge. 
+    22: Though thou shouldst bray a fool in the mortar, as when a pestle striketh upon sodden barley, his folly would not be taken from him. 
+    23: Be diligent to know the countenance of thy cattle, and consider thy own flocks: 
+    24: For thou shalt not always have power: but a crown shall be given to generation and generation. 
+    25: The meadows are open, and the green herbs have appeared, and the hay is gathered out of the mountains.
+    26: Lambs are for thy clothing: and kids for the price of the field. 
+    27: Let the milk of the goats be enough for thy food, and for the necessities of thy house, and for maintenance for thy handmaids.
+
+  Chapter 28.
+
+    1: The wicked man fleeth, when no man pursueth: but the just, bold as a lion, shall be without dread. 
+    2: For the sins of the land many are the princes thereof: and for the wisdom of a man, and the knowledge of those things that are said, the life of the prince shall be prolonged. 
+    3: A poor man that oppresseth the poor, is like a violent shower, which bringeth a famine. 
+    4: They that forsake the law, praise the wicked man: they that keep it, are incensed against him. 
+    5: Evil men think not on judgment: but they that seek after the Lord, take notice of all things.
+    6: Better is the poor man walking in his simplicity, than the rich in crooked ways. 
+    7: He that keepeth the law is a wise son: but he that feedeth gluttons, shameth his father. 
+    8: He that heapeth together riches by usury and loan, gathereth them for him that will be bountiful to the poor. 
+    9: He that turneth away his ears from hearing the law, his prayer shall be as abomination. 
+    10: He that deceiveth the just in a wicked way, shall fall in his own destruction: and the upright shall possess his goods.
+    11: The rich man seemeth to himself wise: but the poor man that is prudent shall search him out. 
+    12: In the joy of the just there is great glory: when the wicked reign, men are ruined. 
+    13: He that hideth his sins, shall not prosper: but he that shall confess, and forsake them, shall obtain mercy. 
+    14: Blessed is the man that is always fearful: but he that is hardened in mind, shall fall into evil. 
+    15: As a roaring lion, and a hungry bear, so is a wicked prince over the poor people.
+    16: A prince void of prudence shall oppress many by calumny: but he that hateth covetousness, shall prolong his days. 
+    17: A man that doth violence to the blood of a person, if he flee even to the pit, no man will stay him. 
+    18: He that walketh uprightly, shall be saved: he that is perverse in his ways shall fall at once. 
+    19: He that tilleth his ground, shall be filled with bread: but he that followeth idleness shall be filled with poverty. 
+    20: A faithful man shall be much praised: but he that maketh haste to be rich, shall not be innocent.
+    21: He that hath respect to a person in judgment, doth not well: such a man even for a morsel of bread forsaketh the truth. 
+    22: A man, that maketh haste to be rich, and envieth others, is ignorant that poverty shall come upon him. 
+    23: He that rebuketh a man, shall afterward find favour with him, more than he that by a flattering tongue deceiveth him. 
+    24: He that stealeth any thing from his father, or from his mother: and saith, This is no sin, is the partner of a murderer. 
+    25: He that boasteth, and puffeth up himself, stirreth up quarrels: but he that trusteth in the Lord, shall be healed.
+    26: He that trusteth in his own heart, is a fool: but he that walketh wisely, he shall be saved. 
+    27: He that giveth to the poor, shall not want: he that despiseth his entreaty, shall suffer indigence. 
+    28: When the wicked rise up, men shall hide themselves: when they perish, the lust shall be multiplied.
+
+End of day 188.

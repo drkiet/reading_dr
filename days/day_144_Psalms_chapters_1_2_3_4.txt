@@ -1,0 +1,55 @@
+Day 144:
+
+Reading Psalms, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: Blessed is the man who hath not walked in the counsel of the ungodly, nor stood in the way of sinners, nor sat in the chair of pestilence. 
+    2: But his will is in the law of the Lord, and on his law he shall meditate day and night. 
+    3: And he shall be like a tree which is planted near the running waters, which shall bring forth its fruit, in due season. And his leaf shall not fall off: and all whatsoever he shall do shall prosper. 
+    4: Not so the wicked, not so: but like the dust, which the wind driveth from the face of the earth. 
+    5: Therefore the wicked shall not rise again in judgment: nor sinners in the council of the just.
+    6: For the Lord knoweth the way of the just: and the way of the wicked shall perish.
+
+  Chapter 2.
+
+    1: Why have the Gentiles raged, and the people devised vain things? 
+    2: The kings of the earth stood up, and the princes met together, against the Lord and against his Christ. 
+    3: Let us break their bonds asunder: and let us cast away their yoke from us. 
+    4: He that dwelleth in heaven shall laugh at them: and the Lord shall deride them. 
+    5: Then shall he speak to them in his anger, and trouble them in his rage.
+    6: But I am appointed king by him over Sion his holy mountain, preaching his commandment. 
+    7: The Lord hath said to me: Thou art my son, this day have I begotten thee. 
+    8: Ask of me, and I will give thee the Gentiles for thy inheritance, and the utmost parts of the earth for thy possession. 
+    9: Thou shalt rule them with a rod of iron, and shalt break them in pieces like a potter's vessel. 
+    10: And now, O ye kings, understand: receive instruction, you that judge the earth.
+    11: Serve ye the Lord with fear: and rejoice unto him with trembling. 
+    12: Embrace discipline, lest at any time the Lord be angry, and you perish from the just way. 
+    13: When his wrath shall be kindled in a short time, blessed are all they that trust in him.
+
+  Chapter 3.
+
+    1: The psalm of David when he fled from the face of his son Absalom. 
+    2: Why, O Lord, are they multiplied that afflict me? many are they who rise up against me. 
+    3: Many say to my soul: There is no salvation for him in his God. 
+    4: But thou, O Lord art my protector, my glory, and the lifter up of my head. 
+    5: I have cried to the Lord with my voice: and he hath heard me from his holy hill.
+    6: I have slept and taken my rest: and I have risen up, because the Lord hath protected me. 
+    7: I will not fear thousands of the people, surrounding me: arise, O Lord; save me, O my God. 
+    8: For thou hast struck all them who are my adversaries without cause: thou hast broken the teeth of sinners. 
+    9: Salvation is of the Lord: and thy blessing is upon thy people.
+
+  Chapter 4.
+
+    1: Unto the end, in verses. A psalm for David. 
+    2: When I called upon him, the God of my justice heard me: when I was in distress, thou hast enlarged me. Have mercy on me: and hear my prayer. 
+    3: O ye sons of men, how long will you be dull of heart? why do you love vanity, and seek after lying? 
+    4: Know ye also that the Lord hath made his holy one wonderful: the Lord will hear me when I shall cry unto him. 
+    5: Be angry, and sin not: the things you say in your hearts, be sorry for them upon your beds.
+    6: Offer up the sacrifice of justice, and trust in the Lord: many say, Who sheweth us good things? 
+    7: The light of thy countenance O Lord, is signed upon us: thou hast given gladness in my heart. 
+    8: By the fruit of their corn, their wine and oil, they are multiplied. 
+    9: In peace in the selfsame I will sleep, and I will rest: 
+    10: For thou, O Lord, singularly hast settled me in hope.
+
+End of day 144.

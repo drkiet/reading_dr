@@ -1,0 +1,166 @@
+Day 205:
+
+Reading Sirach, chapters ['21', '22', '23', '24']:
+
+  Chapter 21.
+
+    1: My son, hast thou sinned? do so no more: but for thy former sins also pray that they may be forgiven thee. 
+    2: Flee from sins as from the face of a serpent: for if thou comest near them, they will take hold of thee. 
+    3: The teeth thereof are the teeth of a lion, killing the souls of men. 
+    4: All iniquity is like a two-edged sword, there is no remedy for the wound thereof. 
+    5: Injuries and wrongs will waste riches: and the house that is very rich shall be brought to nothing by pride: so the substance of the proud shall be rooted out.
+    6: The prayer out of the mouth of the poor shall reach the ears of God, and judgment shall come for him speedily. 
+    7: He that hateth to be reproved walketh in the trace of a sinner: and he that feareth God will turn to his own heart. 
+    8: He that is mighty by a bold tongue is known afar off, but a wise man knoweth to slip by him. 
+    9: He that buildeth his house at other men's charges, is as he that gathereth himself stones to build in the winter. 
+    10: The congregation of sinners is like tow heaped together, and the end of them is a flame of fire.
+    11: The way of sinners is made plain with stones, and in their end is hell, and darkness, and pains. 
+    12: He that keepeth justice shall get the understanding thereof. 
+    13: The perfection of the fear of God is wisdom and understanding. 
+    14: He that is not wise in good, will not be taught. 
+    15: But there is a wisdom that aboundeth in evil: and there is no understanding where there is bitterness.
+    16: The knowledge of a wise man shall abound like a flood, and his counsel continueth like a fountain of life. 
+    17: The heart of a fool is like a broken vessel, and no wisdom at all shall it hold. 
+    18: A man of sense will praise every wise word he shall hear, and will apply it to himself: the luxurious man hath heard it, and it shall displease him, and he will cast it behind his back. 
+    19: The talking of a fool is like a burden in the way: but in the lips of the wise, grace shall be found. 
+    20: The mouth of the prudent is sought after in the church, and they will think upon his words in their hearts.
+    21: As a house that is destroyed, so is wisdom to a fool: and the knowledge of the unwise is as words without sense. 
+    22: Doctrine to a fool is as fetters on the feet, and like manacles on the right hand. 
+    23: A fool lifteth up his voice in laughter: but a wise man will scarce laugh low to himself. 
+    24: Learning to the prudent is as an ornament of gold, and like a bracelet upon his right arm. 
+    25: The foot of a fool is soon in his neighbour's house: but a man of experience will be abashed at the person of the mighty.
+    26: A fool will peep through the window into the house: but he that is well taught will stand without. 
+    27: It is the folly of a man to hearken at the door: and a wise man will be grieved with the disgrace. 
+    28: The lips of the unwise will be telling foolish things but the words of the wise shall be weighed in a balance. 
+    29: The heart of fools is in their mouth: and the mouth of wise men is in their heart. 
+    30: While the ungodly curseth the devil, he curseth his own soul.
+    31: The talebearer shall defile his own soul, and shall be hated by all: and he that shall abide with him shall be hateful: the silent and wise man shall be honoured.
+
+  Chapter 22.
+
+    1: The sluggard is pelted with a dirty stone, and all men will speak of his disgrace. 
+    2: The sluggard is pelted with the dung of oxen: and every one that toucheth him will shake his hands. 
+    3: A son ill taught is the confusion of the father: and a foolish daughter shall be to his loss. 
+    4: A wise daughter shall bring an inheritance to her husband: but she that confoundeth, becometh a disgrace to her father. 
+    5: She that is bold shameth both her father and husband, and will not be inferior to the ungodly: and shall be disgraced by them both.
+    6: A tale out of time is like music in mourning: but the stripes and instruction of wisdom are never out of time. 
+    7: He that teacheth a fool, is like one that glueth a potsherd together. 
+    8: He that telleth a word to him that heareth not, is like one that waketh a man out of a deep sleep. 
+    9: He speaketh with one that is asleep, who uttereth wisdom to a fool: and in the end of the discourse he saith: Who is this? 
+    10: Weep for the dead, for his light hath failed: and weep for the fool, for his understanding faileth.
+    11: Weep but a little for the dead, for he is at rest. 
+    12: For the wicked life of a wicked fool is worse than death. 
+    13: The mourning for the dead is seven days: but for a fool and an ungodly man all the days of their life. 
+    14: Talk not much with a fool, and go not with him that hath no sense. 
+    15: Keep thyself from him, that thou mayst not have trouble, and thou shalt not be defiled with his sin.
+    16: Turn away from him, and thou shalt find rest, and shalt not be wearied out with his folly. 
+    17: What is heavier than lead? and what other name hath he but fool? 
+    18: Sand and salt, and a mass of iron is easier to bear, than a man without sense, that is both foolish and wicked. 
+    19: A frame of wood bound together in the foundation of a building, shall not be loosed: so neither shall the heart that is established by advised counsel. 
+    20: The thought of him that is wise at all times, shall not be depraved by fear.
+    21: As pales set in high places, and plasterings made without cost, will not stand against the face of the wind: 
+    22: So also a fearful heart in the imagination of a fool shall not resist against the violence of fear. 
+    23: As a fearful heart in the thought of a fool at all times will not fear, so neither shall he that continueth always in the commandments of God. 
+    24: He that pricketh the eye, bringeth out tears: and he that pricketh the heart, bringeth forth resentment. 
+    25: He that flingeth a stone at birds, shall drive them away: so he that upbraideth his friend, breaketh friendship.
+    26: Although thou hast drawn a sword at a friend, despair not: for there may be a returning. To a friend, 
+    27: If thou hast opened a sad mouth, fear not, for there may be a reconciliation: except upbraiding, and reproach, and pride, and disclosing of secrets, or a treacherous wound: for in all these cases a friend will flee away. 
+    28: Keep fidelity with a friend in his poverty, that in his prosperity also thou mayst rejoice. 
+    29: In the time of his trouble continue faithful to him, that thou mayst also be heir with him in his inheritance. 
+    30: As the vapour of a chimney, and the smoke of the fire goeth up before the fire: so also injurious words, and reproaches, and threats, before blood.
+    31: I will not be ashamed to salute a friend, neither will I hide myself from his face: and if any evil happen to me by him, I will bear it. 
+    32: But every one that shall hear it, will beware of him. 
+    33: Who will set a guard before my mouth, and a sure seal upon my lips, that I fall not by them, and that my tongue destroy me not?
+
+  Chapter 23.
+
+    1: O Lord, father, and sovereign ruler of my life, leave me not to their counsel: nor suffer me to fall by them. 
+    2: Who will set scourges over my thoughts, and the discipline of wisdom over my heart, that they spare me not in their ignorances, and that their sins may not appear: 
+    3: Lest my ignorance increase, and my offences be multiplied, and my sins abound, and I fall before my adversaries, and my enemy rejoice over me? 
+    4: O Lord, father, and God of my life, leave me not to their devices. 
+    5: Give me not haughtiness of my eyes, and turn away from me all coveting.
+    6: Take from me the greediness of the belly, and let not the lusts of the flesh take hold of me, and give me not over to a shameless and foolish mind. 
+    7: Hear, O ye children, the discipline of the mouth: and he that will keep it shall not perish by his lips, nor be brought to fall into most wicked works. 
+    8: A sinner is caught in his own vanity, and the proud and the evil speakers shall fall thereby. 
+    9: Let not thy mouth be accustomed to swearing: for in it there are many falls. 
+    10: And let not the naming of God be usual in thy mouth, and meddle not with the names of saints, for thou shalt not escape free from them.
+    11: For as a slave daily put to the question, is never without a blue mark: so every one that sweareth, and nameth, shall not be wholly pure from sin. 
+    12: A man that sweareth much, shall be filled with iniquity, and a scourge shall not depart from his house. 
+    13: And if he make it void, his sin shall be upon him: and if he dissemble it, he offendeth double: 
+    14: And if he swear in vain, he shall not be justified: for his house shall be filled with his punishment. 
+    15: There is also another speech opposite to death, let it not be found in the inheritance of Jacob.
+    16: For from the merciful all these things shall be taken away, and they shall not wallow in sins. 
+    17: Let not thy mouth be accustomed to indiscreet speech: for therein is the word of sin. 
+    18: Remember thy father and thy mother, for thou sittest is the midst of great men: 
+    19: Lest God forget thee in their sight, and thou, by thy daily custom, be infatuated and suffer reproach: and wish that thou hadst not been born, and curse the day of thy nativity. 
+    20: The man that is accustomed to opprobrious words, will never be corrected all the days of his life.
+    21: Two sorts of men multiply sins, and the third bringeth wrath and destruction. 
+    22: A hot soul is a burning fire, it will never be quenched, till it devour some thing. 
+    23: And a man that is wicked in the mouth of his flesh, will not leave off till he hath kindled a fire. 
+    24: To a man that is a fornicator all bread is sweet, he will not be weary of sinning unto the end. 
+    25: Every man that passeth beyond his own bed, despising his own soul, and saying: Who seeth me?
+    26: Darkness compasseth me about, and the walls cover me, and no man seeth me: whom do I fear? the most High will not remember my sins. 
+    27: And he understandeth not that his eye seeth all things, for such a man's fear driveth from him the fear of God, and the eyes of men fearing him: 
+    28: And he knoweth not that the eyes of the Lord are far brighter than the sun, beholding round about all the ways of men, and the bottom of the deep, and looking into the hearts of men, into the most hidden parts. 
+    29: For all things were known to the Lord God, before they were created: so also after they were perfected he beholdeth all things. 
+    30: This man shall be punished in the streets of the city, and he shall be chased as a colt: and where he suspected not, he shall be taken.
+    31: And he shall be in disgrace with all men, because he understood not the fear of the Lord. 
+    32: So every woman also that leaveth her husband, and bringeth in an heir by another: 
+    33: For first she hath been unfaithful to the law of the most High: and secondly, she hath offended against her husband: thirdly, she hath fornicated in adultery, and hath gotten her children of another man. 
+    34: This woman shall be brought into the assembly, and inquisition shall be made of her children. 
+    35: Her children shall not take root, and her branches shall bring forth no fruit.
+    36: She shall leave her memory to be cursed, and her infamy shall not be blotted out. 
+    37: And they that remain shall know. that there is nothing better than the fear of God: and that there is nothing sweeter than to have regard to the commandments of the Lord. 
+    38: It is great glory to follow the Lord for length of days shall be received from him.
+
+  Chapter 24.
+
+    1: Wisdom shall praise her own self, and shall be honoured in God, and shall glory in the midst of her people, 
+    2: And shall open her mouth in the churches of the most High, and shall glorify herself in the sight of his power, 
+    3: And in the midst of her own people she shall be exalted, and shall be admired in the holy assembly. 
+    4: And in the multitude of the elect she shall have praise, and among the blessed she shall be blessed, saying: 
+    5: I came out of the mouth of the most High, the firstborn before all creatures:
+    6: I made that in the heavens there should rise light that never faileth, and as a cloud I covered all the earth: 
+    7: I dwelt in the highest places, and my throne is in a pillar of a cloud. 
+    8: I alone have compassed the circuit of heaven, and have penetrated into the bottom of the deep, and have walked in the waves of the sea, 
+    9: And have stood in all the earth: and in every people, 
+    10: And in every nation I have had the chief rule:
+    11: And by my power I have trodden under my feet the hearts of all the high and low: and in all these I sought rest, and I shall abide in the inheritance of the Lord. 
+    12: Then the creator of all things commanded, and said to me: and he that made me, rested in my tabernacle, 
+    13: And he said to me: Let thy dwelling be in Jacob, and thy inheritance in Israel, and take root in my elect. 
+    14: From the beginning, and before the world, was I created, and unto the world to come I shall not cease to be, and in the holy dwelling place I have ministered before him. 
+    15: And so was I established in Sion, and in the holy city likewise I rested, and my power was in Jerusalem.
+    16: And I took root in an honourable people, and in the portion of my God his inheritance, and my abode is in the full assembly of saints. 
+    17: I was exalted like a cedar in Libanus, and as a cypress tree on mount Sion. 
+    18: I was exalted like a palm tree in Cades, and as a rose plant in Jericho: 
+    19: As a fair olive tree in the plains, and as a plane tree by the water in the streets, was I exalted. 
+    20: I gave a sweet smell like cinnamon. and aromatical balm: I yielded a sweet odour like the best myrrh:
+    21: And I perfumed my dwelling as storax, and galbanum, and onyx, and aloes, and as the frankincense not cut, and my odour is as the purest balm. 
+    22: I have stretched out my branches as the turpentine tree, and my branches are of honour and grace. 
+    23: As the vine I have brought forth a pleasant odour: and my flowers are the fruit of honour and riches. 
+    24: I am the mother of fair love, and of fear, and of knowledge, and of holy hope. 
+    25: In me is all grace of the way and of the truth, in me is all hope of life and of virtue.
+    26: Come over to me, all ye that desire me, and be filled with my fruits. 
+    27: For my spirit is sweet above honey, and my inheritance above honey and the honeycomb. 
+    28: My memory is unto everlasting generations. 
+    29: They that eat me, shall yet hunger: and they that drink me, shall yet thirst. 
+    30: He that hearkeneth to me, shall not be confounded: and they that work by me, shall not sin.
+    31: They that explain me shall have life everlasting. 
+    32: All these things are the book of life, and the covenant of the most High, and the knowledge of truth. 
+    33: Moses commanded a law in the precepts of justices, and an inheritance to the house of Jacob, and the promises to Israel. 
+    34: He appointed to David his servant to raise up of him a most mighty king, and sitting on the throne of glory for ever. 
+    35: Who filleth up wisdom as the Phison, and as the Tigris in the days of the new fruits.
+    36: Who maketh understanding to abound as the Euphrates, who multiplieth it as the Jordan in the time of harvest. 
+    37: Who sendeth knowledge as the light, and riseth up as Gehon in the time of the vintage. 
+    38: Who first hath perfect knowledge of her, and a weaker shall not search her out. 
+    39: For her thoughts are more vast than the sea, and her counsels more deep than the great ocean. 
+    40: I, wisdom, have poured out rivers.
+    41: I, like a brook out of a river of a mighty water; I, like a channel of a river. and like an aqueduct, came out of paradise. 
+    42: I said: I will water my garden of plants, and I will water abundantly the fruits of my meadow. 
+    43: And behold my brook became a great river, and my river came near to a sea: 
+    44: For I make doctrine to shine forth to all as the morning light, and I will declare it afar off. 
+    45: I will penetrate to all the lower parts of the earth, and will behold all that sleep, and will enlighten all that hope in the Lord.
+    46: I will yet pour out doctrine as prophecy, and will leave it to them that seek wisdom, and will not cease to instruct their offspring even to the holy age. 
+    47: See ye that I have not laboured for myself only, but for all that seek out the truth.
+
+End of day 205.

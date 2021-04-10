@@ -1,0 +1,86 @@
+Day 153:
+
+Reading Psalms, chapters ['37', '38', '39', '40']:
+
+  Chapter 37.
+
+    1: A psalm for David, for a remembrance of the sabbath. 
+    2: Rebuke me not, O Lord, in thy indignation; nor chastise me in thy wrath. 
+    3: For thy arrows are fastened in me: and thy hand hath been strong upon me. 
+    4: There is no health in my flesh, because of thy wrath: there is no peace for my bones, because of my sins. 
+    5: For my iniquities are gone over my head: and as a heavy burden are become heavy upon me.
+    6: My sores are putrified and corrupted, because of my foolishness. 
+    7: I am become miserable, and am bowed down even to the end: I walked sorrowful all the day long. 
+    8: For my loins are filled with illusions; and there is no health in my flesh. 
+    9: I am afflicted and humbled exceedingly: I roared with the groaning of my heart. 
+    10: Lord, all my desire is before thee, and my groaning is not hidden from thee.
+    11: My heart is troubled, my strength hath left me, and the light of my eyes itself is not with me. 
+    12: My friends and my neighbours have drawn near, and stood against me. And they that were near me stood afar off: 
+    13: And they that sought my soul used violence. And they that sought evils to me spoke vain things, and studied deceits all the day long. 
+    14: But I, as a deaf man, heard not: and as a dumb man not opening his mouth. 
+    15: And I became as a man that heareth not: and that hath no reproofs in his mouth.
+    16: For in thee, O Lord, have I hoped: thou wilt hear me, O Lord my God. 
+    17: For I said: Lest at any time my enemies rejoice over me: and whilst my feet are moved, they speak great things against me. 
+    18: For I am ready for scourges: and my sorrow is continually before me. 
+    19: For I will declare my iniquity: and I will think for my sin. 
+    20: But my enemies live, and are stronger than I: and they that hate me wrongfully are multiplied.
+    21: They that render evil for good, have detracted me, because I followed goodness. 
+    22: Forsake me not, O Lord my God: do not thou depart from me. 
+    23: Attend unto my help, O Lord, the God of my salvation.
+
+  Chapter 38.
+
+    1: Unto the end, for Idithun himself, a canticle of David. 
+    2: I said: I will take heed to my ways: that I sin not with my tongue. I have set guard to my mouth, when the sinner stood against me. 
+    3: I was dumb, and was humbled, and kept silence from good things: and my sorrow was renewed. 
+    4: My heart grew hot within me: and in my meditation a fire shall flame out. 
+    5: I spoke with my tongue: O Lord, make me know my end. And what is the number of my days: that I may know what is wanting to me.
+    6: Behold thou hast made my days measurable: and my substance is as nothing before thee. And indeed all things are vanity: every man living. 
+    7: Surely man passeth as an image: yea, and he is disquieted in vain. He storeth up: and he knoweth not for whom he shall gather these things. 
+    8: And now what is my hope? is it not the Lord? and my substance is with thee. 
+    9: Deliver thou me from all my iniquities: thou hast made me a reproach to the fool. 
+    10: I was dumb, and I opened not my mouth, because thou hast done it.
+    11: Remove thy scourges from me. The strength of thy hand hath made me faint in rebukes: 
+    12: Thou hast corrected man for iniquity. And thou hast made his soul to waste away like a spider: surely in vain is any man disquieted. 
+    13: Hear my prayer, O Lord, and my supplication: give ear to my tears. Be not silent: for I am a stranger with thee, and a sojourner as all my fathers were. 
+    14: O forgive me, that I may be refreshed, before I go hence, and be no more.
+
+  Chapter 39.
+
+    1: Unto the end, a psalm for David himself. 
+    2: With expectation I have waited for the Lord, and he was attentive to me. 
+    3: And he heard my prayers, and brought me out of the pit of misery and the mire of dregs. And he set my feet upon a rock, and directed my steps. 
+    4: And he put a new canticle into my mouth, a song to our God. Many shall see, and shall fear: and they shall hope in the Lord. 
+    5: Blessed is the man whose trust is in the name of the Lord; and who hath not had regard to vanities, and lying follies.
+    6: Thou hast multiplied thy wonderful works, O Lord my God: and in thy thoughts there is no one like to thee. I have declared and I have spoken they are multiplied above number. 
+    7: Sacrifice and oblation thou didst not desire; but thou hast pierced ears for me. Burnt offering and sin offering thou didst not require: 
+    8: Then said I, Behold I come. In the head of the book it is written of me 
+    9: That I should do thy will: O my God, I have desired it, and thy law in the midst of my heart. 
+    10: I have declared thy justice in a great church, lo, I will not restrain my lips: O Lord, thou knowest it.
+    11: I have not hid thy justice within my heart: I have declared thy truth and thy salvation. I have not concealed thy mercy and thy truth from a great council. 
+    12: Withhold not thou, O Lord, thy tender mercies from me: thy mercy and thy truth have always upheld me. 
+    13: For evils without number have surrounded me; my iniquities have overtaken me, and I was not able to see. They are multiplied above the hairs of my head: and my heart hath forsaken me. 
+    14: Be pleased, O Lord, to deliver me, look down, O Lord, to help me. 
+    15: Let them be confounded and ashamed together, that seek after my soul to take it away. Let them be turned backward and be ashamed that desire evils to me.
+    16: Let them immediately bear their confusion, that say to me: Tis well, tis well. 
+    17: Let all that seek thee rejoice and be glad in thee: and let such as love thy salvation say always: The Lord be magnified. 
+    18: But I am a beggar and poor: the Lord is careful for me. Thou art my helper and my protector: O my God, be not slack.
+
+  Chapter 40.
+
+    1: Unto the end, a psalm for David himself. 
+    2: Blessed is he that understandeth concerning the needy and the poor: the Lord will deliver him in the evil day. 
+    3: The Lord preserve him and give him life, and make him blessed upon the earth: and deliver him not up to the will of his enemies. 
+    4: The Lord help him on his bed of sorrow: thou hast turned all his couch in his sickness. 
+    5: I said: O Lord, be thou merciful to me: heal my soul, for I have sinned against thee.
+    6: My enemies have spoken evils against me: when shall he die and his name perish? 
+    7: And if he came in to see me, he spoke vain things: his heart gathered together iniquity to itself. He went out and spoke to the same purpose. 
+    8: All my enemies whispered together against me: they devised evils to me. 
+    9: They determined against me an unjust word: shall he that sleepeth rise again no more? 
+    10: For even the man of peace, in whom I trusted, who ate my bread, hath greatly supplanted me.
+    11: But thou, O Lord, have mercy on me, and raise me up again: and I will requite them. 
+    12: By this I know, that thou hast had a good will for me: because my enemy shall not rejoice over me. 
+    13: But thou hast upheld me by reason of my innocence: and hast established me in thy sight for ever. 
+    14: Blessed be the Lord the God of Israel from eternity to eternity. So be it. So be it.
+
+End of day 153.

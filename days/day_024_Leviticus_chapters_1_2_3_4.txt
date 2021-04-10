@@ -1,0 +1,102 @@
+Day 24:
+
+Reading Leviticus, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: And the Lord called Moses, and spoke to him from the tabernacle of the testimony, saying: 
+    2: Speak to the children of Israel, and thou shalt say to them: The man among you that shall offer to the Lord a sacrifice of the cattle, that is, offering victims of oxen and sheep, 
+    3: If his offering be a holocaust, and of the herd, he shall offer a male without blemish, at the door of the testimony, to make the Lord favourable to him: 
+    4: And he shall put his hand upon the head of the victim, and it shall be acceptable, and help to its expiation. 
+    5: And he shall immolate the calf before the Lord, and the priests the sons of Aaron shall offer the blood thereof, pouring it round about the altar, which is before the door of the tabernacle.
+    6: And when they have flayed the victim, they shall cut the joints into pieces, 
+    7: And shall put fire on the altar, having before laid in order a pile of wood: 
+    8: And they shall lay the parts that are cut out in order thereupon, to wit, the head, and all things that cleave to the liver, 
+    9: The entrails and feet being washed with water: and the priest shall burn them upon the altar for a holocaust, and a sweet savour to the Lord. 
+    10: And if the offering be of the flocks, a holocaust of sheep or of goats, he shall offer a male without blemish:
+    11: And he shall immolate it at the side of the altar that looketh to the north, before the Lord: but the sons of Aaron shall pour the blood thereof upon the altar round about: 
+    12: And they shall divide the joints, the head, and all that cleave to the liver: and shall lay them upon the wood, under which the fire is to be put: 
+    13: But the entrails and the feet they shall wash with water. And the priest shall offer it all and burn it all upon the altar for a holocaust, and most sweet savour to the Lord. 
+    14: But if the oblation of a holocaust to the Lord be of birds, of turtles, or of young pigeons, 
+    15: The priest shall offer it at the altar: and twisting back the neck, and breaking the place of the wound, he shall make the blood run down upon the brim of the altar.
+    16: But the crop of the throat, and the feathers he shall cast beside the altar at the east side, in the place where the ashes are wont to be poured out, 
+    17: And he shall break the pinions thereof, and shall not cut, nor divide it with a knife, and shall burn it upon the altar, putting fire under the wood. It is a holocaust and oblation of most sweet savour to the Lord.
+
+  Chapter 2.
+
+    1: When any one shall offer an oblation of sacrifice to the Lord, his offering shall be of fine flour, and he shall pour oil upon it, and put frankincense, 
+    2: And shall bring it to the sons of Aaron the priests: and one of them shall take a handful of the flour and oil, and all the frankincense, and shall put it a memorial upon the altar for a most sweet savour to the Lord. 
+    3: And the remnant of the sacrifice shall be Aaron's, and his sons', holy of holies of the offerings of the Lord. 
+    4: But when thou offerest a sacrifice baked in the oven of flour, to wit, loaves without leaven, tempered with oil, and unleavened wafers, anointed with oil: 
+    5: If thy oblation be from the fryingpan, of flour tempered with oil, and without leaven,
+    6: Thou shalt divide it into little pieces, and shalt pour oil upon it. 
+    7: And if the sacrifice be from the gridiron, in like manner the flour shall be tempered with oil: 
+    8: And when thou offerest it to the Lord, thou shalt deliver it to the hands of the priest. 
+    9: And when he hath offered it, he shall take a memorial out of the sacrifice, and burn it upon the altar for a sweet savour to the Lord. 
+    10: And whatsoever is left, shall be Aaron's, and his sons', holy of holies of the offerings of the Lord.
+    11: Every oblation that is offered to the Lord shall be made without leaven, neither shall any leaven or honey be burnt in the sacrifice to the Lord. 
+    12: You shall offer only the firstfruits of them and gifts: but they shall not be put upon the altar, for a savour of sweetness, 
+    13: Whatsoever sacrifice thou offerest, thou shalt season it with salt, neither shalt thou take away the salt of the covenant of thy God from thy sacrifice. In all thy oblations thou shalt offer salt. 
+    14: But if thou offer a gift of the firstfruits of thy corn to the Lord, of the ears yet green, thou shalt dry it at the fire, and break it small like meal, and so shalt thou offer thy firstfruits to the Lord, 
+    15: Pouring oil upon it and putting on frankincense, because it is the oblation of the Lord.
+    16: Whereof the priest shall burn for a memorial of the gift, part of the corn broken small and of the oil, and all the frankincense.
+
+  Chapter 3.
+
+    1: And if his oblation be a sacrifice of peace offerings, and he will offer of the herd, whether male or female, he shall offer them without blemish before the Lord. 
+    2: And he shall lay his hand upon the head of his victim, which shall be slain in the entry of the tabernacle of the testimony, and the sons of Aaron the priests shall pour the blood round about upon the altar. 
+    3: And they shall offer of the sacrifice of peace offerings, for an oblation to the Lord, the fat that covereth the entrails, and all the fat that is within. 
+    4: The two kidneys with the fat wherewith the flanks are covered, and the caul of the liver with the two little kidneys. 
+    5: And they shall burn them upon the altar, for a holocaust, putting fire under the wood: for an oblation of most sweet savour to the Lord.
+    6: But if his oblation and the sacrifice of peace offering be of the flock, whether he offer male or female, they shall be without blemish. 
+    7: If he offer a lamb before the Lord, 
+    8: He shall put his hand upon the head of his victim: and it shall be slain in the entry of the tabernacle of the testimony: and the sons of Aaron shall pour the blood thereof round about upon the altar. 
+    9: And they shall offer of the victim of peace offerings a sacrifice to the Lord: the fat and the whole rump, 
+    10: With the kidneys, and the fat that covereth the belly and all the vitals and both the little kidneys, with the fat that is about the flanks, and the caul of the liver with the little kidneys.
+    11: And the priest shall burn them upon the altar, for the food of the fire, and of the oblation of the Lord. 
+    12: If his offering be a goat, and he offer it to the Lord, 
+    13: He shall put his hand upon the head thereof: and shall immolate it in the entry of the tabernacle of the testimony. And the sons of Aaron shall pour the blood thereof round about upon the altar. 
+    14: And they shall take of it for the food of the Lord's fire, the fat that covereth the belly, and that covereth all the vital parts: 
+    15: The two little kidneys with the caul that is upon them which is by the flanks, and the fat of the liver with the little kidneys:
+    16: And the priest shall burn them upon the altar, for the food of the fire, and of a most sweet savour. All the fat shall be the Lord's. 
+    17: By a perpetual law for your generations, and in all your habitations: neither blood nor fat shall you eat at all.
+
+  Chapter 4.
+
+    1: And the Lord spoke to Moses, saying: 
+    2: Say to the children of Israel: The soul that sinneth through ignorance, and doth any thing concerning any of the commandments of the Lord, which he commanded not to be done: 
+    3: If the priest that is anointed shall sin, making the people to offend, he shall offer to the Lord for his sin a calf without blemish. 
+    4: And he shall bring it to the door of the testimony before the Lord, and shall put his hand upon the head thereof, and shall sacrifice it to the Lord. 
+    5: He shall take also of the blood of the calf, and carry it into the tabernacle of the testimony.
+    6: And having dipped his finger in the blood, he shall sprinkle with it seven times before the Lord, before the veil of the sanctuary. 
+    7: And he shall put some of the same blood upon the horns of the altar of the sweet incense most acceptable to the Lord, which is in the tabernacle of the testimony. And he shall pour all the rest of the blood at the foot of the altar of holocaust in the entry of the tabernacle. 
+    8: And he shall take off the fat of the calf for the sin offering, as well that which covereth the entrails, as all the inwards: 
+    9: The two little kidneys, and the caul that is upon them, which is by the hanks, and the fat of the liver with the little kidneys, 
+    10: As it is taken off from the calf of the sacrifice of peace offerings, and he shall burn them upon the altar of holocaust.
+    11: But the skin and all the flesh with the head and the feet and the bowels and the dung, 
+    12: And the rest of the body he shall carry forth without the camp into a clean place where the ashes are wont to be poured out, and he shall burn them upon a pile of wood, they shall be burnt in the place where the ashes are poured out. 
+    13: And if all the multitude of Israel shall be ignorant, and through ignorance shall do that which is against the commandment of the Lord, 
+    14: And afterwards shall understand their sin, they shall offer for their sin a calf, and shall bring it to the door of the tabernacle. 
+    15: And the ancients of the people shall put their hands upon the head thereof before the Lord. And the calf being immolated in the sight of the Lord,
+    16: The priest that is anointed shall carry of the blood into the tabernacle of the testimony. 
+    17: And shall dip his finger in it and sprinkle it seven times before the veil. 
+    18: And he shall put of the same blood on the horns of the altar that is before the Lord, in the tabernacle of the testimony: and the rest of the blood he shall pour at the foot of the altar of holocaust, which is at the door of the tabernacle of the testimony. 
+    19: And all the fat thereof he shall take off, and shall burn it upon the altar: 
+    20: Doing so with this calf, as he did also with that before: and the priest praying for them, the Lord will be merciful unto them.
+    21: But the calf itself he shall carry forth without the camp, and shall burn it as he did the former calf: because it is for the sin of the multitude. 
+    22: If a prince shall sin, and through ignorance do any one of the things that the law of the Lord forbiddeth, 
+    23: And afterwards shall come to know his sin, he shall offer a buck goat without blemish, a sacrifice to the Lord. 
+    24: And he shall put his hand upon the head thereof: and when he hath immolated it in the place where the holocaust is wont to be slain before the Lord, because it is for sin, 
+    25: The priest shall dip his finger in the blood of the victim for sin, touching therewith the horns of the altar of holocaust, and pouring out the rest at the foot thereof.
+    26: But the fat he shall burn upon it, as is wont to be done with the victims of peace offerings: and the priest shall pray for him, and for his sin, and it shall be forgiven him. 
+    27: And if any one of the people of the land shall sin through ignorance, doing any of those things that by the law of the Lord are forbidden, and offending, 
+    28: And shall come to know his sin, he shall offer a she goat without blemish. 
+    29: And he shall put his hand upon the head of the victim that is for sin, and shall immolate it in the place of the holocaust. 
+    30: And the priest shall take of the blood with his finger, and shall touch the horns of the altar of holocaust, and shall pour out the rest at the foot thereof.
+    31: But taking off all the fat, as is wont to be taken away of the victims of peace offerings, he shall burn it upon the altar, for a sweet savour to the Lord: and he shall pray for him, and it shall be forgiven him. 
+    32: But if he offer of the flock a victim for his sin, to wit, an ewe without blemish: 
+    33: He shall put his hand upon the head thereof, and shall immolate it in the place where the victims of holocausts are wont to be slain. 
+    34: And the priest shall take of the blood thereof with his finger, and shall touch the horns of the altar of holocaust, and the rest he shall pour out at the foot thereof. 
+    35: All the fat also he shall take off, as the fat of the ram that is offered for peace offerings is wont to be taken away: and shall burn it upon the altar, for a burnt sacrifice of the Lord: and he shall pray for him and for his sin, and it shall be forgiven him.
+
+End of day 24.

@@ -1,0 +1,72 @@
+Day 122:
+
+Reading Esther, chapters ['5', '6', '7', '8']:
+
+  Chapter 5.
+
+    1: And on the third day Esther put on her royal apparel, and stood in the inner court of the king's house, over against the king's hall: now he sat upon his throne in the hall of the palace, over against the door of the house. 
+    2: And when he saw Esther the queen standing, she pleased his eyes, and he held out toward her the golden sceptre, which he held in his hand: and she drew near, and kissed the top of his sceptre. 
+    3: And the king said to her: What wilt then, queen Esther? what is thy request? if thou shouldst even ask one half of the kingdom, it shall be given to thee. 
+    4: But she answered: If it please the king. I beseech thee to come to me this day, and Aman with thee to the banquet which I have prepared. 
+    5: And the king said forthwith: Call ye Aman quickly, that he may obey Esther's will. So the king and Aman came to the banquet which the queen had prepared for them.
+    6: And the king said to her, after he had drunk wine plentifully: What dost thou desire should be given thee? and for what thing askest thou? although thou shouldst ask the half of my kingdom, thou shalt have it. 
+    7: And Esther answered: My petition and request is this: 
+    8: If I have found favour in the king's sight, and if it please the king to give me what I ask, and to fulfill my petition: let the king and Aman come to the banquet which I have prepared them, and tomorrow I will open my mind to the king. 
+    9: So Aman went out that day joyful and merry. And when he saw Mardochai sitting before the gate of the palace, and that he not only did not rise up to honour him, but did not so much as move from the place where he sat, he was exceedingly angry: 
+    10: But dissembling his anger, and returning into his house, he called together to him his friends, and Zares his wife:
+    11: And he declared to them the greatness of his riches, and the multitude of his children, and with how great glory the king had advanced him above all his princes and servants. 
+    12: And after this he said: Queen Esther also hath invited no other to the banquet with the king, but me: and with her I am also to dine tomorrow with the king: 
+    13: And whereas I have all these things, I think I have nothing, so long as I see Mardochai the Jew sitting before the king's gate. 
+    14: Then Zares his wife, and the rest of his friends answered him: Order a great beam to be prepared, fifty cubits high, and in the morning speak to the king, that Mardochai may be hanged upon it, and so thou shalt go full of joy with the king to the banquet. The counsel pleased him, and he commanded a high gibbet to be prepared.
+
+  Chapter 6.
+
+    1: That night the king passed without sleep, and he commanded the histories and chronicles of former times to be brought him. And when they were reading them before him, 
+    2: They came to that place where it was written, how Mardochai had discovered the treason of Bagathan and Thares the eunuchs, who sought to kill king Assuerus. 
+    3: And when the king heard this, he said: What honour and reward hath Mardochai received for this fidelity? His servants and ministers said to him: He hath received no reward at all. 
+    4: And the king said immediately: Who is in the court? for Aman was coming in to the inner court of the king's house, to speak to the king, that he might order Mardochai to be hanged upon the gibbet which was prepared for him. 
+    5: The servants answered: Aman standeth in the court, and the king said: Let him come in.
+    6: And when he was come in, he said to him: What ought to be done to the man whom the king is desirous to honour? But Aman thinking in his heart, and supposing that the king would honour no other but himself, 
+    7: Answered: The man whom the king desireth to honour, 
+    8: Ought to be clothed with the king's apparel, and to be set upon the horse that the king rideth upon, and to have the royal crown upon his head, 
+    9: And let the first of the king's princes and nobles hold his horse, and going through the street of the city, proclaim before him and say: Thus shall he be honoured, whom the king hath a mind to honour. 
+    10: And the king said to him: Make haste and take the robe and the horse, and do as thou hast spoken to Mardochai the Jew, who sitteth before the gates of the palace. Beware thou pass over any of those things which thou hast spoken.
+    11: So Aman took the robe and the horse, and arraying Mardochai in the street of the city, and setting him on the horse, went before him, and proclaimed: This honour is he worthy of, whom the king hath a mind to honour. 
+    12: But Mardochai returned to the palace gate: and Aman made haste to go to his house, mourning and having his head covered: 
+    13: And he told Zares his wife, and his friends, all that had befallen him. And the wise men whom he had in counsel, and his wife answered him: If Mardochai be of the seed of the Jews, before whom thou hast begun to fall, thou canst not resist him, but thou shalt fall in his sight. 
+    14: As they were yet speaking, the king's eunuchs came, and compelled him to go quickly to the banquet which the queen had prepared.
+
+  Chapter 7.
+
+    1: So the king and Aman went in, to drink with the queen. 
+    2: And the king said to her again the second day, after he was warm with wine: What is thy petition, Esther, that it may be granted thee? and what wilt thou have done: although thou ask the half of my kingdom, thou shalt have it. 
+    3: Then she answered: If I have found Favour in thy sight, O king, and if it please thee, give me my life for which I ask, and my people for which I request. 
+    4: For we are given up, I and my people, to be destroyed, to be slain, and to perish. And would God we were sold for bondmen and bondwomen: the evil might be borne with, and I would have mourned in silence: but now we have an enemy, whose cruelty redoundeth upon the king. 
+    5: And king Assuerus answered and said: Who is this, and of what power, that he should do these things?
+    6: And Esther said: It is this Aman that is our adversary and most wicked enemy. Aman hearing this was forthwith astonished, not being able to bear the countenance of the king and of the queen. 
+    7: But the king being angry rose up, and went from the place of the banquet into the garden set with trees. Aman also rose up to entreat Esther the queen for his life, for he understood that evil was prepared for him by the king. 
+    8: And when the king came back out of the garden set with trees, and entered into the place of the banquet, he found Aman was fallen upon the bed on which Esther lay, and he said: He will force the queen also in my presence, in my own house. The word was not yet gone out of the king's mouth, and immediately they covered his face. 
+    9: And Harbona, one of the eunuchs that stood waiting on the king, said: Behold the gibbet which he hath prepared for Mardochai, who spoke for the king, standeth in Aman's house, being fifty cubits high. And the king said to him: Hang him upon it. 
+    10: So Aman was hanged on the gibbet, which he had prepared for Mardochai: and the king's wrath ceased.
+
+  Chapter 8.
+
+    1: On that day king Assuerus gave the house of Aman, the Jews' enemy, to queen Esther, and Mardochai came in before the king. For Esther had confessed to him that he was her uncle. 
+    2: And the king took the ring which he had commanded to be taken again from Aman, and gave it to Mardochai. And Esther set Mardochai over her house. 
+    3: And not content with these things, she fell down at the king's feet and wept, and speaking to him besought him, that he would give orders that the malice of Aman the Agagite, and his most wicked devices which he had invented against the Jews, should be of no effect. 
+    4: But he, as the manner was, held out the golden sceptre with his hand, which was the sign of clemency: and she arose up and stood before him, 
+    5: And said: If it please the king, and if I have found favour in his sight, and my request be not disagreeable to him, I beseech thee, that the former letters of Aman the traitor and enemy of the Jews, by which he commanded that they should be destroyed in all the king's provinces, may be reversed by new letters.
+    6: For how can I endure the murdering and slaughter of my people? 
+    7: And king Assuerus answered Esther the queen, and Mardochai the Jew: I have given Aman's house to Esther, and I have commanded him to be hanged on a gibbet, because he durst lay hands on the Jews. 
+    8: Write ye therefore to the Jews, as it pleaseth you, in the king's name, and seal the letters with my ring. For this was the custom, that no man durst gainsay the letters which were sent in the king's name, and were sealed with his ring. 
+    9: Then the king's scribes and secretaries were called for (now it was the time of the third month which is called Siban) the three and twentieth day of the month, and letters were written, as Mardochai had a mind, to the Jews, and to the governors, and to the deputies, and to the judges, who were rulers over the hundred and twenty-seven provinces, from India even to Ethiopia: to province and province, to people and people, according to their languages and characters, and to the Jews, according as they could read and hear. 
+    10: And these letters which were sent in the king's name, were sealed with his ring, and sent by posts: who were to run through all the provinces, to prevent the former letters with new messages.
+    11: And the king gave orders to them, to speak to the Jews in every city, and to command them to gather themselves together, and to stand for their lives, and to kill and destroy all their enemies with their wives and children and all their houses, and to take their spoil. 
+    12: And one day of revenge was appointed through all the provinces, to wit, the thirteenth of the twelfth month Adar. 
+    13: And this was the content of the letter, that it should be notified in all lands and peoples that were subject to the empire of king Assuerus, that the Jews were ready to be revenged of their enemies. 
+    14: So the swift posts went out carrying the messages, and the king's edict was hung up in Susan. 
+    15: And Mardochai going forth out of the palace, and from the king's presence, shone in royal apparel, to wit, of violet and sky colour, wearing a golden crown on his head, and clothed with a cloak of silk and purple. And all the city rejoiced and was glad.
+    16: But to the Jews a new light seemed to rise, joy, honour, and dancing. 
+    17: And in all peoples, cities, and provinces, whithersoever the king's commandments came, there was wonderful rejoicing, feasts and banquets, and keeping holy day: insomuch that many of other nations and religion, joined themselves to their worship and ceremonies. For a great dread of the name of the Jews had fallen upon all.
+
+End of day 122.

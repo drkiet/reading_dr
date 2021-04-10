@@ -1,0 +1,99 @@
+Day 354:
+
+Reading Revelation, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: The Revelation of Jesus Christ, which God gave unto him, to make known to his servants the things which must shortly come to pass: and signified, sending by his angel to his servant John, 
+    2: Who hath given testimony to the word of God, and the testimony of Jesus Christ, what things soever he hath seen. 
+    3: Blessed is he, that readeth and heareth the words of this prophecy; and keepeth those things which are written in it; for the time is at hand. 
+    4: John to the seven churches which are in Asia. Grace be unto you and peace from him that is, and that was, and that is to come, and from the seven spirits which are before his throne, 
+    5: And from Jesus Christ, who is the faithful witness, the first begotten of the dead, and the prince of the kings of the earth, who hath loved us, and washed us from our sins in his own blood,
+    6: And hath made us a kingdom, and priests to God and his Father, to him be glory and empire for ever and ever. Amen. 
+    7: Behold, he cometh with the clouds, and every eye shall see him, and they also that pierced him. And all the tribes of the earth shall bewail themselves because of him. Even so. Amen. 
+    8: I am Alpha and Omega, the beginning and the end, saith the Lord God, who is, and who was, and who is to come, the Almighty. 
+    9: I John, your brother and your partner in tribulation, and in the kingdom, and patience in Christ Jesus, was in the island, which is called Patmos, for the word of God, and for the testimony of Jesus. 
+    10: I was in the spirit on the Lord's day, and heard behind me a great voice, as of a trumpet,
+    11: Saying: What thou seest, write in a book, and send to the seven churches which are in Asia, to Ephesus, and to Smyrna, and to Pergamus, and to Thyatira, and to Sardis, and to Philadelphia, and to Laodicea. 
+    12: And I turned to see the voice that spoke with me. And being turned, I saw seven golden candlesticks: 
+    13: And in the midst of the seven golden candlesticks, one like to the Son of man, clothed with a garment down to the feet, and girt about the paps with a golden girdle. 
+    14: And his head and his hairs were white, as white wool, and as snow, and his eyes were as a flame of fire, 
+    15: And his feet like unto fine brass, as in a burning furnace. And his voice as the sound of many waters.
+    16: And he had in his right hand seven stars. And from his mouth came out a sharp two edged sword: and his face was as the sun shineth in his power. 
+    17: And when I had seen him, I fell at his feet as dead. And he laid his right hand upon me, saying: Fear not. I am the First and the Last, 
+    18: And alive, and was dead, and behold I am living for ever and ever, and have the keys of death and of hell. 
+    19: Write therefore the things which thou hast seen, and which are, and which must be done hereafter. 
+    20: The mystery of the seven stars, which thou sawest in my right hand, and the seven golden candlesticks. The seven stars are the angels of the seven churches. And the seven candlesticks are the seven churches.
+
+  Chapter 2.
+
+    1: Unto the angel of the church of Ephesus write: These things saith he, who holdeth the seven stars in his right hand, who walketh in the midst of the seven golden candlesticks: 
+    2: I know thy works, and thy labour, and thy patience, and how thou canst not bear them that are evil, and thou hast tried them, who say they are apostles, and are not, and hast found them liars: 
+    3: And thou hast patience, and hast endured for my name, and hast not fainted. 
+    4: But I have somewhat against thee, because thou hast left thy first charity. 
+    5: Be mindful therefore from whence thou art fallen: and do penance, and do the first works. Or else I come to thee, and will move thy candlestick out of its place, except thou do penance.
+    6: But this thou hast, that thou hatest the deeds of the Nicolaites, which I also hate. 
+    7: He, that hath an ear, let him hear what the Spirit saith to the churches: To him, that overcometh, I will give to eat of the tree of life, which is in the paradise of my God. 
+    8: And to the angel of the church of Smyrna write: These things saith the First and the Last, who was dead, and is alive: 
+    9: I know thy tribulation and thy poverty, but thou art rich: and thou art blasphemed by them that say they are Jews and are not, but are the synagogue of Satan. 
+    10: Fear none of those things which thou shalt suffer. Behold, the devil will cast some of you into prison that you may be tried: and you shall have tribulation ten days. Be thou faithful until death: and I will give thee the crown of life.
+    11: He, that hath an ear, let him hear what the Spirit saith to the churches: He that shall overcome, shall not be hurt by the second death. 
+    12: And to the angel of the church of Pergamus write: These things, saith he, that hath the sharp two edged sword: 
+    13: I know where thou dwellest, where the seat of Satan is: and thou holdest fast my name, and hast not denied my faith. Even in those days when Antipas was my faithful witness, who was slain among you, where Satan dwelleth. 
+    14: But I have against thee a few things: because thou hast there them that hold the doctrine of Balaam, who taught Balac to cast a stumblingblock before the children of Israel, to eat, and to commit fornication: 
+    15: So hast thou also them that hold the doctrine of the Nicolaites.
+    16: In like manner do penance: if not, I will come to thee quickly, and will fight against them with the sword of my mouth. 
+    17: He, that hath an ear, let him hear what the Spirit saith to the churches: To him that overcometh, I will give the hidden manna, and will give him a white counter, and in the counter, a new name written, which no man knoweth, but he that receiveth it. 
+    18: And to the angel of the church of Thyatira write: These things saith the Son of God, who hath his eyes like to a flame of fire, and his feet like to fine brass. 
+    19: I know thy works, and thy faith, and thy charity, and thy ministry, and thy patience, and thy last works which are more than the former. 
+    20: But I have against thee a few things: because thou sufferest the woman Jezabel, who calleth herself a prophetess, to teach, and to seduce my servants, to commit fornication, and to eat of things sacrificed to idols.
+    21: And I gave her a time that she might do penance, and she will not repent of her fornication. 
+    22: Behold, I will cast her into a bed: and they that commit adultery with her shall be in very great tribulation, except they do penance from their deeds. 
+    23: And I will kill her children with death, and all the churches shall know that I am he that searcheth the reins and hearts, and I will give to every one of you according to your works. But to you I say, 
+    24: And to the rest who are at Thyatira: Whosoever have not this doctrine, and who have not known the depths of Satan, as they say, I will not put upon you any other burthen. 
+    25: Yet that, which you have, hold fast till I come.
+    26: And he that shall overcome, and keep my works unto the end, I will give him power over the nations. 
+    27: And he shall rule them with a rod of iron, and as the vessel of a potter they shall be broken, 
+    28: As I also have received of my Father: and I will give him the morning star. 
+    29: He that hath an ear, let him hear what the Spirit saith to the churches.
+
+  Chapter 3.
+
+    1: And to the angel of the church of Sardis, write: These things saith he, that hath the seven spirits of God, and the seven stars: I know thy works, that thou hast the name of being alive: and thou art dead. 
+    2: Be watchful and strengthen the things that remain, which are ready to die. For I find not thy works full before my God. 
+    3: Have in mind therefore in what manner thou hast received and heard: and observe, and do penance. If then thou shalt not watch, I will come to thee as a thief, and thou shalt not know at what hour I will come to thee. 
+    4: But thou hast a few names in Sardis, which have not defiled their garments: and they shall walk with me in white, because they are worthy. 
+    5: He that shall overcome, shall thus be clothed in white garments, and I will not blot out his name out of the book of life, and I will confess his name before my Father, and before his angels.
+    6: He that hath an ear, let him hear what the Spirit saith to the churches. 
+    7: And to the angel of the church of Philadelphia, write: These things saith the Holy One and the true one, he that hath the key of David; he that openeth, and no man shutteth; shutteth, and no man openeth: 
+    8: I know thy works. Behold, I have given before thee a door opened, which no man can shut: because thou hast a little strength, and hast kept my word, and hast not denied my name. 
+    9: Behold, I will bring of the synagogue of Satan, who say they are Jews, and are not, but do lie. Behold, I will make them to come and adore before thy feet. And they shall know that I have loved thee. 
+    10: Because thou hast kept the word of my patience, I will also keep thee from the hour of the temptation, which shall come upon the whole world to try them that dwell upon the earth.
+    11: Behold, I come quickly: hold fast that which thou hast, that no man take thy crown. 
+    12: He that shall overcome, I will make him a pillar in the temple of my God; and he shall go out no more; and I will write upon him the name of my God, and the name of the city of my God, the new Jerusalem, which cometh down out of heaven from my God, and my new name. 
+    13: He that hath an ear, let him hear what the Spirit saith to the churches. 
+    14: And to the angel of the church of Laodicea, write: These things saith the Amen, the faithful and true witness, who is the beginning of the creation of God: 
+    15: I know thy works, that thou art neither cold, nor hot. I would thou wert cold, or hot.
+    16: But because thou art lukewarm, and neither cold, nor hot, I will begin to vomit thee out of my mouth. 
+    17: Because thou sayest: I am rich, and made wealthy, and have need of nothing: and knowest not, that thou art wretched, and miserable, and poor, and blind, and naked. 
+    18: I counsel thee to buy of me gold fire tried, that thou mayest be made rich; and mayest be clothed in white garments, and that the shame of thy nakedness may not appear; and anoint thy eyes with eyesalve, that thou mayest see. 
+    19: Such as I love, I rebuke and chastise. Be zealous therefore, and do penance. 
+    20: Behold, I stand at the gate, and knock. If any man shall hear my voice, and open to me the door, I will come in to him, and will sup with him, and he with me.
+    21: To him that shall overcome, I will give to sit with me in my throne: as I also have overcome, and am set down with my Father in his throne. 
+    22: He that hath an ear, let him hear what the Spirit saith to the churches.
+
+  Chapter 4.
+
+    1: After these things I looked, and behold a door was opened in heaven, and the first voice which I heard, as it were, of a trumpet speaking with me, said: Come up hither, and I will shew thee the things which must be done hereafter. 
+    2: And immediately I was in the spirit: and behold there was a throne set in heaven, and upon the throne one sitting. 
+    3: And he that sat, was to the sight like the jasper and the sardine stone; and there was a rainbow round about the throne, in sight like unto an emerald. 
+    4: And round about the throne were four and twenty seats; and upon the seats, four and twenty ancients sitting, clothed in white garments, and on their heads were crowns of gold. 
+    5: And from the throne proceeded lightnings, and voices, and thunders; and there were seven lamps burning before the throne, which are the seven spirits of God.
+    6: And in the sight of the throne was, as it were, a sea of glass like to crystal; and in the midst of the throne, and round about the throne, were four living creatures, full of eyes before and behind. 
+    7: And the first living creature was like a lion: and the second living creature like a calf: and the third living creature, having the face, as it were, of a man: and the fourth living creature was like an eagle flying. 
+    8: And the four living creatures had each of them six wings; and round about and within they are full of eyes. And they rested not day and night, saying: Holy, holy, holy, Lord God Almighty, who was, and who is, and who is to come. 
+    9: And when those living creatures gave glory, and honour, and benediction to him that sitteth on the throne, who liveth for ever and ever; 
+    10: The four and twenty ancients fell down before him that sitteth on the throne, and adored him that liveth for ever and ever, and cast their crowns before the throne, saying:
+    11: Thou art worthy, O Lord our God, to receive glory, and honour, and power: because thou hast created all things; and for thy will they were, and have been created.
+
+End of day 354.

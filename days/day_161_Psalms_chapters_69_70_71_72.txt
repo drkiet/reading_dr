@@ -1,0 +1,95 @@
+Day 161:
+
+Reading Psalms, chapters ['69', '70', '71', '72']:
+
+  Chapter 69.
+
+    1: Unto the end, a psalm for David, to bring to remembrance that the Lord saved him. 
+    2: O God, come to my assistance; O Lord, make haste to help me. 
+    3: Let them be confounded and ashamed that seek my soul: 
+    4: Let them be turned backward, and blush for shame that desire evils to me: Let them be presently turned away blushing for shame that say to me: Tis well, tis well. 
+    5: Let all that seek thee rejoice and be glad in thee; and let such as love thy salvation say always: The Lord be magnified.
+    6: But I am needy and poor; O God, help me. Thou art my helper and my deliverer: O Lord, make no delay.
+
+  Chapter 70.
+
+    1: A psalm for David. Of the sons of Jonadab, and the former captives. In thee, O Lord, I have hoped, let me never be put to confusion: 
+    2: Deliver me in thy justice, and rescue me. Incline thy ear unto me, and save me. 
+    3: Be thou unto me a God, a protector, and a place of strength: that thou mayst make me safe. For thou art my firmament and my refuge. 
+    4: Deliver me, O my God, out of the hand of the sinner, and out of the hand of the transgressor of the law and of the unjust. 
+    5: For thou art my patience, O Lord: my hope, O Lord, from my youth;
+    6: By thee have I been confirmed from the womb: from my mother's womb thou art my protector. Of thee shall I continually sing: 
+    7: I run become unto many as a wonder, but thou art a strong helper. 
+    8: Let my mouth be filled with praise, that I may sing thy glory; thy greatness all the day long. 
+    9: Cast me not off in the time of old age: when my strength shall fail, do not thou forsake me. 
+    10: For my enemies have spoken against me; and they that watched my soul have consulted together,
+    11: Saying: God hath forsaken him: pursue and take him, for there is none to deliver him. 
+    12: O God, be not thou far from me: O my God, make haste to my help. 
+    13: Let them be confounded and come to nothing that detract my soul; let them be covered with confusion and shame that seek my hurt. 
+    14: But I will always hope; and will add to all thy praise. 
+    15: My mouth shall shew forth thy justice; thy salvation all the day long. Because I have not known learning,
+    16: I will enter into the powers of the Lord: O Lord, I will be mindful of thy justice alone. 
+    17: Thou hast taught me, O God, from my youth: and till now I will declare thy wonderful works. 
+    18: And unto old age and grey hairs: O God, forsake me not, Until I shew forth thy arm to all the generation that is to come: Thy power, 
+    19: And thy justice, O God, even to the highest great things thou hast done: O God, who is like to thee? 
+    20: How great troubles hast thou shewn me, many and grievous: and turning thou hast brought me to life, and hast brought me back again from the depths of the earth:
+    21: Thou hast multiplied thy magnificence; and turning to me thou hast comforted me. 
+    22: For I will also confess to thee thy truth with the instruments of psaltery: O God, I will sing to thee with the harp, thou holy one of Israel. 
+    23: My lips shall greatly rejoice, when I shall sing to thee; and my soul which thou hast redeemed. 
+    24: Yea and my tongue shall meditate on thy justice all the day; when they shall be confounded and put to shame that seek evils to me.
+
+  Chapter 71.
+
+    1: A psalm on Solomon. 
+    2: Give to the king thy judgment, O God: and to the king's son thy justice: To judge thy people with justice, and thy poor with judgment. 
+    3: Let the mountains receive peace for the people: and the hills justice. 
+    4: He shall judge the poor of the people, and he shall save the children of the poor: and he shall humble the oppressor. 
+    5: And he shall continue with the sun, and before the moon, throughout all generations.
+    6: He shall come down like rain upon the fleece; and as showers falling gently upon the earth. 
+    7: In his days shall justice spring up, and abundance of peace, till the moon be taken away. 
+    8: And he shall rule from sea to sea, and from the river unto the ends of the earth. 
+    9: Before him the Ethiopians shall fall down: and his enemies shall lick the ground. 
+    10: The kings of Tharsis and the islands shall offer presents: the kings of the Arabians and of Saba shall bring gifts:
+    11: And all kings of the earth shall adore him: all nations shall serve him. 
+    12: For he shall deliver the poor from the mighty: and the needy that had no helper. 
+    13: He shall spare the poor and needy: and he shall save the souls of the poor. 
+    14: He shall redeem their souls from usuries and iniquity: and their names shall be honourable in his sight. 
+    15: And he shall live, and to him shall be given of the gold of Arabia, for him they shall always adore: they shall bless him all the day.
+    16: And there shall be a firmament on the earth on the tops of mountains, above Libanus shall the fruit thereof be exalted: and they of the city shall flourish like the grass of the earth. 
+    17: Let his name be blessed for evermore: his name continueth before the sun. And in him shall all the tribes of the earth be blessed: all nations shall magnify him. 
+    18: Blessed be the Lord, the God of Israel, who alone doth wonderful things. 
+    19: And blessed be the name of his majesty for ever: and the whole earth shall be filled with his majesty. So be it. So be it. 
+    20: The praises of David, the son of Jesse, are ended.
+
+  Chapter 72.
+
+    1: A psalm for Asaph. How good is God to Israel, to them that are of a right heart! 
+    2: But my feet were almost moved; my steps had well nigh slipped. 
+    3: Because I had a zeal on occasion of the wicked, seeing the prosperity of sinners. 
+    4: For there is no regard to their death, nor is there strength in their stripes. 
+    5: They are not in the labour of men: neither shall they be scourged like other men.
+    6: Therefore pride hath held them fast: they are covered with their iniquity and their wickedness. 
+    7: Their iniquity hath come forth, as it were from fatness: they have passed into the affection of the heart. 
+    8: They have thought and spoken wickedness: they have spoken iniquity on high. 
+    9: They have set their mouth against heaven: and their tongue hath passed through the earth. 
+    10: Therefore will my people return here and full days shall be found in them.
+    11: And they said: How doth God know? and is there knowledge in the most High? 
+    12: Behold these are sinners; and yet abounding in the world they have obtained riches. 
+    13: And I said: Then have I in vain justified my heart, and washed my hands among the innocent. 
+    14: And I have been scourged all the day; and my chastisement hath been in the mornings. 
+    15: If I said: I will speak thus; behold I should condemn the generation of thy children.
+    16: I studied that I might know this thing, it is a labour in my sight: 
+    17: Until I go into the sanctuary of God, and understand concerning their last ends. 
+    18: But indeed for deceits thou hast put it to them: when they were lifted up thou hast cast them down. 
+    19: How are they brought to desolation? they have suddenly ceased to be: they have perished by reason of their iniquity. 
+    20: As the dream of them that awake, O Lord; so in thy city thou shalt bring their image to nothing.
+    21: For my heart hath been inflamed, and my reins have been changed: 
+    22: And I am brought to nothing, and I knew not. 
+    23: I am become as a beast before thee: and I am always with thee. 
+    24: Thou hast held me by my right hand; and by thy will thou hast conducted me, and with thy glory thou hast received me. 
+    25: For what have I in heaven? and besides thee what do I desire upon earth?
+    26: For thee my flesh and my heart hath fainted away: thou art the God of my heart, and the God that is my portion for ever. 
+    27: For behold they that go far from thee shall perish: thou hast destroyed all them that are disloyal to thee. 
+    28: But it is good for me to adhere to my God, to put my hope in the Lord God: That I may declare all thy praises, in the gates of the daughter of Sion.
+
+End of day 161.

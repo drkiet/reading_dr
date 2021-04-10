@@ -1,0 +1,148 @@
+Day 169:
+
+Reading Psalms, chapters ['101', '102', '103', '104']:
+
+  Chapter 101.
+
+    1: The prayer of the poor man, when he was anxious, and poured out his supplication before the Lord. 
+    2: Hear, O Lord, my prayer: and let my cry come to thee. 
+    3: Turn not away thy face from me: in the day when I am in trouble, incline thy ear to me. In what day soever I shall call upon thee, hear me speedily. 
+    4: For my days are vanished like smoke: and my bones are grown dry like fuel for the fire. 
+    5: I am smitten as grass, and my heart is withered: because I forgot to eat my bread.
+    6: Through the voice of my groaning, my bone hath cleaved to my flesh. 
+    7: I am become like to a pelican of the wilderness: I am like a night raven in the house. 
+    8: I have watched, and am become as a sparrow all alone on the housetop. 
+    9: All the day long my enemies reproached me: and they that praised me did swear against me. 
+    10: For I did eat ashes like bread, and mingled my drink with weeping.
+    11: Because of thy anger and indignation: for having lifted me up thou hast thrown me down. 
+    12: My days have declined like a shadow, and I am withered like grass. 
+    13: But thou, O Lord, endurest for ever: and thy memorial to all generations. 
+    14: Thou shalt arise and have mercy on Sion: for it is time to have mercy on it, for the time is come. 
+    15: For the stones thereof have pleased thy servants: and they shall have pity on the earth thereof.
+    16: And the Gentiles shall fear thy name, O Lord, and all the kings of the earth thy glory. 
+    17: For the Lord hath built up Sion: and he shall be seen in his glory. 
+    18: He hath had regard to the prayer of the humble: and he hath not despised their petition. 
+    19: Let these things be written unto another generation: and the people that shall be created shall praise the Lord: 
+    20: Because he hath looked forth from his high sanctuary: from heaven the Lord hath looked upon the earth.
+    21: That he might hear the groans of them that are in fetters: that he might release the children of the slain: 
+    22: That they may declare the name of the Lord in Sion: and his praise in Jerusalem; 
+    23: When the people assemble together, and kings, to serve the Lord. 
+    24: He answered him in the way of his strength: Declare unto me the fewness of my days. 
+    25: Call me not away in the midst of my days: thy years are unto generation and generation.
+    26: In the beginning, O Lord, thou foundedst the earth: and the heavens are the works of thy hands. 
+    27: They shall perish but thou remainest: and all of them shall grow old like a garment: And as a vesture thou shalt change them, and they shall be changed. 
+    28: But thou art always the selfsame, and thy years shall not fail. 
+    29: The children of thy servants shall continue: and their seed shall be directed for ever.
+
+  Chapter 102.
+
+    1: For David himself. Bless the Lord, O my soul: and let all that is within me bless his holy name. 
+    2: Bless the Lord, O my soul, and never forget all he hath done for thee. 
+    3: Who forgiveth all thy iniquities: who healeth all thy diseases. 
+    4: Who redeemeth thy life from destruction: who crowneth thee with mercy and compassion. 
+    5: Who satisfieth thy desire with good things: thy youth shall be renewed like the eagle's.
+    6: The Lord doth mercies, and judgment for all that suffer wrong. 
+    7: He hath made his ways known to Moses: his wills to the children of Israel. 
+    8: The Lord is compassionate and merciful: longsuffering and plenteous in mercy. 
+    9: He will not always be angry: nor will he threaten for ever. 
+    10: He hath not dealt with us according to our sins: nor rewarded us according to our iniquities.
+    11: For according to the height of the heaven above the earth: he hath strengthened his mercy towards them that fear him. 
+    12: As far as the east is from the west, so far hath he removed our iniquities from us. 
+    13: As a father hath compassion on his children, so hath the Lord compassion on them that fear him: 
+    14: For he knoweth our frame. He remembereth that we are dust: 
+    15: Man's days are as grass, as the flower of the field so shall he flourish.
+    16: For the spirit shall pass in him, and he shall not be: and he shall know his place no more. 
+    17: But the mercy of the Lord is from eternity and unto eternity upon them that fear him: And his justice unto children's children, 
+    18: To such as keep his covenant, And are mindful of his commandments to do them. 
+    19: The Lord hath prepared his throne in heaven: and his kingdom shall rule over all. 
+    20: Bless the Lord, all ye his angels: you that are mighty in strength, and execute his word, hearkening to the voice of his orders.
+    21: Bless the Lord, all ye his hosts: you ministers of his that do his will. 
+    22: Bless the Lord, all his works: in every place of his dominion, O my soul, bless thou the Lord.
+
+  Chapter 103.
+
+    1: For David himself. Bless the Lord, O my soul: O Lord my God, thou art exceedingly great. Thou hast put on praise and beauty: 
+    2: And art clothed with light as with a garment. Who stretchest out the heaven like a pavilion: 
+    3: Who coverest the higher rooms thereof with water. Who makest the clouds thy chariot: who walkest upon the wings of the winds. 
+    4: Who makest thy angels spirits: and thy ministers a burning fire. 
+    5: Who hast founded the earth upon its own bases: it shall not be moved for ever and ever.
+    6: The deep like a garment is its clothing: above the mountains shall the waters stand. 
+    7: At thy rebuke they shall flee: at the voice of thy thunder they shall fear. 
+    8: The mountains ascend, and the plains descend into the place which thou hast founded for them. 
+    9: Thou hast set a bound which they shall not pass over; neither shall they return to cover the earth. 
+    10: Thou sendest forth springs in the vales: between the midst of the hills the waters shall pass.
+    11: All the beasts of the field shall drink: the wild asses shall expect in their thirst. 
+    12: Over them the birds of the air shall dwell: from the midst of the rocks they shall give forth their voices. 
+    13: Thou waterest the hills from thy upper rooms: the earth shall be filled with the fruit of thy works: 
+    14: Bringing forth grass for cattle, and herb for the service of men. That thou mayst bring bread out of the earth: 
+    15: And that wine may cheer the heart of man. That he may make the face cheerful with oil: and that bread may strengthen man's heart.
+    16: The trees of the field shall be filled, and the cedars of Libanus which he hath planted: 
+    17: There the sparrows shall make their nests. The highest of them is the house of the heron. 
+    18: The high hills are a refuge for the harts, the rock for the irchins. 
+    19: He hath made the moon for seasons: the sun knoweth his going down. 
+    20: Thou hast appointed darkness, and it is night: in it shall all the beasts of the woods go about:
+    21: The young lions roaring after their prey, and seeking their meat from God. 
+    22: The sun ariseth, and they are gathered together: and they shall lie down in their dens. 
+    23: Man shall go forth to his work, and to his labour until the evening. 
+    24: How great are thy works, O Lord? thou hast made all things in wisdom: the earth is filled with thy riches. 
+    25: So is this great sea, which stretcheth wide its arms: there are creeping things without number: Creatures little and great.
+    26: There the ships shall go. This sea dragon which thou hast formed to play therein. 
+    27: All expect of thee that thou give them food in season. 
+    28: What thou givest to them they shall gather up: when thou openest thy hand, they shall all be filled with good. 
+    29: But if thou turnest away thy face, they shall be troubled: thou shalt take away their breath, and they shall fail, and shall return to their dust. 
+    30: Thou shalt send forth thy spirit, and they shall be created: and thou shalt renew the face of the earth.
+    31: May the glory of the Lord endure for ever: the Lord shall rejoice in his works. 
+    32: He looketh upon the earth, and maketh it tremble: he toucheth the mountains, and they smoke. 
+    33: I will sing to the Lord as long as I live: I will sing praise to my God while I have my being. 
+    34: Let my speech be acceptable to him: but I will take delight in the Lord. 
+    35: Let sinners be consumed out of the earth, and the unjust, so that they be no more: O my soul, bless thou the Lord.
+
+  Chapter 104.
+
+    1: Alleluia. Give glory to the Lord, and call upon his name: declare his deeds among the Gentiles. 
+    2: Sing to him, yea sing praises to him: relate all his wondrous works. 
+    3: Glory ye in his holy name: let the heart of them rejoice that seek the Lord. 
+    4: Seek ye the Lord, and be strengthened: seek his face evermore. 
+    5: Remember his marvellous works which he hath done; his wonders, and the judgments of his mouth.
+    6: O ye seed of Abraham his servant; ye sons of Jacob his chosen. 
+    7: He is the Lord our God: his judgments are in all the earth. 
+    8: He hath remembered his covenant for ever: the word which he commanded to a thousand generations. 
+    9: Which he made to Abraham; and his oath to Isaac: 
+    10: And he appointed the same to Jacob for a law, and to Israel for an everlasting testament:
+    11: Saying: To thee will I give the land of Chanaan, the lot of your inheritance. 
+    12: When they were but a small number: yea very few, and sojourners therein: 
+    13: And they passed from nation to nation, and from one kingdom to another people. 
+    14: He suffered no man to hurt them: and he reproved kings for their sakes. 
+    15: Touch ye not my anointed: and do no evil to my prophets.
+    16: And he called a famine upon the land: and he broke in pieces all the support of bread. 
+    17: He sent a man before them: Joseph, who was sold for a slave. 
+    18: They humbled his feet in fetters: the iron pierced his soul, 
+    19: Until his word came. The word of the Lord inflamed him. 
+    20: The king sent, and he released him: the ruler of the people, and he set him at liberty.
+    21: He made him master of his house, and ruler of all his possession. 
+    22: That he might instruct his princes as himself, and teach his ancients wisdom. 
+    23: And Israel went into Egypt: and Jacob was a sojourner in the land of Cham. 
+    24: And he increased his people exceedingly: and strengthened them over their enemies, 
+    25: He turned their heart to hate his people: and to deal deceitfully with his servants.
+    26: He sent Moses his servant: Aaron the man whom he had chosen. 
+    27: He gave them power to shew his signs, and his wonders in the land of Cham. 
+    28: He sent darkness, and made it obscure: and grieved not his words. 
+    29: He turned their waters into blood, and destroyed their fish. 
+    30: Their land brought forth frogs, in the inner chambers of their kings.
+    31: He spoke, and there came divers sorts of flies and sciniphs in all their coasts. 
+    32: He gave them hail for rain, a burning fire in the land. 
+    33: And he destroyed their vineyards and their fig trees: and he broke in pieces the trees of their coasts. 
+    34: He spoke, and the locust came, and the bruchus, of which there was no number. 
+    35: And they devoured all the grass in their land, and consumed all the fruit of their ground.
+    36: And he slew all the firstborn in their land: the firstfruits of all their labour. 
+    37: And he brought them out with silver and gold: and there was not among their tribes one that was feeble. 
+    38: Egypt was glad when they departed: for the fear of them lay upon them. 
+    39: He spread a cloud for their protection, and fire to give them light in the night. 
+    40: They asked, and the quail came: and he filled them with the bread of heaven.
+    41: He opened the rock, and waters flowed: rivers ran down in the dry land. 
+    42: Because he remembered his holy word, which he had spoken to his servant Abraham. 
+    43: And he brought forth his people with joy, and his chosen with gladness. 
+    44: And he gave them the lands of the Gentiles: and they possessed the labours of the people: 
+    45: That they might observe his justifications, and seek after his law.
+
+End of day 169.

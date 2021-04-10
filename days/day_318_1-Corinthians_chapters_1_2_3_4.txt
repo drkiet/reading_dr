@@ -1,0 +1,108 @@
+Day 318:
+
+Reading 1-Corinthians, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: Paul, called to be an apostle of Jesus Christ by the will of God, and Sosthenes a brother, 
+    2: To the church of God that is at Corinth, to them that are sanctified in Christ Jesus, called to be saints, with all that invoke the name of our Lord Jesus Christ, in every place of theirs and ours. 
+    3: Grace to you, and peace from God our Father, and from the Lord Jesus Christ. 
+    4: I give thanks to my God always for you, for the grace of God that is given you in Christ Jesus, 
+    5: That in all things you are made rich in him, in all utterance, and in all knowledge;
+    6: As the testimony of Christ was confirmed in you, 
+    7: So that nothing is wanting to you in any grace, waiting for the manifestation of our Lord Jesus Christ. 
+    8: Who also will confirm you unto the end without crime, in the day of the coming of our Lord Jesus Christ. 
+    9: God is faithful: by whom you are called unto the fellowship of his Son Jesus Christ our Lord. 
+    10: Now I beseech you, brethren, by the name of our Lord Jesus Christ, that you all speak the same thing, and that there be no schisms among you; but that you be perfect in the same mind, and in the same judgment.
+    11: For it hath been signified unto me, my brethren, of you, by them that are of the house of Chloe, that there are contentions among you. 
+    12: Now this I say, that every one of you saith: I indeed am of Paul; and I am of Apollo; and I am of Cephas; and I of Christ. 
+    13: Is Christ divided? Was Paul then crucified for you? or were you baptized in the name of Paul? 
+    14: I give God thanks, that I baptized none of you but Crispus and Caius; 
+    15: Lest any should say that you were baptized in my name.
+    16: And I baptized also the household of Stephanus; besides, I know not whether I baptized any other. 
+    17: For Christ sent me not to baptize, but to preach the gospel: not in wisdom of speech, lest the cross of Christ should be made void. 
+    18: For the word of the cross, to them indeed that perish, is foolishness; but to them that are saved, that is, to us, it is the power of God. 
+    19: For it is written: I will destroy the wisdom of the wise, and the prudence of the prudent I will reject. 
+    20: Where is the wise? Where is the scribe? Where is the disputer of this world? Hath not God made foolish the wisdom of this world?
+    21: For seeing that in the wisdom of God the world, by wisdom, knew not God, it pleased God, by the foolishness of our preaching, to save them that believe. 
+    22: For both the Jews require signs, and the Greeks seek after wisdom: 
+    23: But we preach Christ crucified, unto the Jews indeed a stumblingblock, and unto the Gentiles foolishness: 
+    24: But unto them that are called, both Jews and Greeks, Christ the power of God, and the wisdom of God. 
+    25: For the foolishness of God is wiser than men; and the weakness of God is stronger than men.
+    26: For see your vocation, brethren, that there are not many wise according to the flesh, not many mighty, not many noble: 
+    27: But the foolish things of the world hath God chosen, that he may confound the wise; and the weak things of the world hath God chosen, that he may confound the strong. 
+    28: And the base things of the world, and the things that are contemptible, hath God chosen, and things that are not, that he might bring to nought things that are: 
+    29: That no flesh should glory in his sight. 
+    30: But of him are you in Christ Jesus, who of God is made unto us wisdom, and justice, and sanctification, and redemption:
+    31: That, as it is written: He that glorieth, may glory in the Lord.
+
+  Chapter 2.
+
+    1: And I, brethren, when I came to you, came not in loftiness of speech or of wisdom, declaring unto you the testimony of Christ. 
+    2: For I judged not myself to know anything among you, but Jesus Christ, and him crucified. 
+    3: And I was with you in weakness, and in fear, and in much trembling. 
+    4: And my speech and my preaching was not in the persuasive words of human wisdom, but in shewing of the Spirit and power; 
+    5: That your faith might not stand on the wisdom of men, but on the power of God.
+    6: Howbeit we speak wisdom among the perfect: yet not the wisdom of this world, neither of the princes of this world that come to nought; 
+    7: But we speak the wisdom of God in a mystery, a wisdom which is hidden, which God ordained before the world, unto our glory: 
+    8: Which none of the princes of this world knew; for if they had known it, they would never have crucified the Lord of glory. 
+    9: But, as it is written: That eye hath not seen, nor ear heard, neither hath it entered into the heart of man, what things God hath prepared for them that love him. 
+    10: But to us God hath revealed them, by this Spirit. For the Spirit searcheth all things, yea, the deep things of God.
+    11: For what man knoweth the things of a man, but the spirit of a man that is in him? So the things also that are of God no man knoweth, but the Spirit of God. 
+    12: Now we have received not the spirit of this world, but the Spirit that is of God; that we may know the things that are given us from God. 
+    13: Which things also we speak, not in the learned words of human wisdom; but in the doctrine of the Spirit, comparing spiritual things with spiritual. 
+    14: But the sensual man perceiveth not these things that are of the Spirit of God; for it is foolishness to him, and he cannot understand, because it is spiritually examined. 
+    15: But the spiritual man judgeth all things; and he himself is judged of no man.
+    16: For who hath known the mind of the Lord, that we may instruct him? But we have the mind of Christ.
+
+  Chapter 3.
+
+    1: And I, brethren, could not speak to you as unto spiritual, but as unto carnal. As unto little ones in Christ. 
+    2: I gave you milk to drink, not meat; for you were not able as yet. But neither indeed are you now able; for you are yet carnal. 
+    3: For, whereas there is among you envying and contention, are you not carnal, and walk according to man? 
+    4: For while one saith, I indeed am of Paul; and another, I am of Apollo; are you not men? What then is Apollo, and what is Paul? 
+    5: The ministers of him whom you have believed; and to every one as the Lord hath given.
+    6: I have planted, Apollo watered, but God gave the increase. 
+    7: Therefore, neither he that planteth is any thing, nor he that watereth; but God that giveth the increase. 
+    8: Now he that planteth, and he that watereth, are one. And every man shall receive his own reward, according to his own labour. 
+    9: For we are God's coadjutors: you are God's husbandry; you are God's building. 
+    10: According to the grace of God that is given to me, as a wise architect, I have laid the foundation; and another buildeth thereon. But let every man take heed how he buildeth thereupon.
+    11: For other foundation no man can lay, but that which is laid; which is Christ Jesus. 
+    12: Now if any man build upon this foundation, gold, silver, precious stones, wood, hay, stubble: 
+    13: Every man's work shall be manifest; for the day of the Lord shall declare it, because it shall be revealed in fire; and the fire shall try every man's work, of what sort it is. 
+    14: If any man's work abide, which he hath built thereupon, he shall receive a reward. 
+    15: If any man's work burn, he shall suffer loss; but he himself shall be saved, yet so as by fire.
+    16: Know you not, that you are the temple of God, and that the Spirit of God dwelleth in you? 
+    17: But if any man violate the temple of God, him shall God destroy. For the temple of God is holy, which you are. 
+    18: Let no man deceive himself: if any man among you seem to be wise in this world, let him become a fool, that he may be wise. 
+    19: For the wisdom of this world is foolishness with God. For it is written: I will catch the wise in their own craftiness. 
+    20: And again: The Lord knoweth the thoughts of the wise, that they are vain.
+    21: Let no man therefore glory in men. 
+    22: For all things are yours, whether it be Paul, or Apollo, or Cephas, or the world, or life, or death, or things present, or things to come; for all are yours; 
+    23: And you are Christ's; and Christ is God's.
+
+  Chapter 4.
+
+    1: Let a man so account of us as of the ministers of Christ, and the dispensers of the mysteries of God. 
+    2: Here now it is required among the dispensers, that a man be found faithful. 
+    3: But to me it is a very small thing to be judged by you, or by man's day; but neither do I judge my own self. 
+    4: For I am not conscious to myself of any thing, yet am I not hereby justified; but he that judgeth me, is the Lord. 
+    5: Therefore judge not before the time; until the Lord come, who both will bring to light the hidden things of darkness, and will make manifest the counsels of the hearts; and then shall every man have praise from God.
+    6: But these things, brethren, I have in a figure transferred to myself and to Apollo, for your sakes; that in us you may learn, that one be not puffed up against the other for another, above that which is written. 
+    7: For who distinguisheth thee? Or what hast thou that thou hast not received? And if thou hast received, why dost thou glory, as if thou hadst not received it? 
+    8: You are now full; you are now become rich; you reign without us; and I would to God you did reign, that we also might reign with you. 
+    9: For I think that God hath set forth us apostles, the last, as it were men appointed to death: we are made a spectacle to the world, and to angels, and to men. 
+    10: We are fools for Christ's sake, but you are wise in Christ; we are weak, but you are strong; you are honourable, but we without honour.
+    11: Even unto this hour we both hunger and thirst, and are naked, and are buffeted, and have no fixed abode; 
+    12: And we labour, working with our own hands: we are reviled, and we bless; we are persecuted, and we suffer it. 
+    13: We are blasphemed, and we entreat; we are made as the refuse of this world, the offscouring of all even until now. 
+    14: I write not these things to confound you; but I admonish you as my dearest children. 
+    15: For if you have ten thousand instructors in Christ, yet not many fathers. For in Christ Jesus, by the gospel, I have begotten you.
+    16: Wherefore I beseech you, be ye followers of me, as I also am of Christ. 
+    17: For this cause have I sent to you Timothy, who is my dearest son and faithful in the Lord; who will put you in mind of my ways, which are in Christ Jesus; as I teach everywhere in every church. 
+    18: As if I would not come to you, so some are puffed up. 
+    19: But I will come to you shortly, if the Lord will: and will know, not the speech of them that are puffed up, but the power. 
+    20: For the kingdom of God is not in speech, but in power.
+    21: What will you? shall I come to you with a rod; or in charity, and in the spirit of meekness?
+
+End of day 318.

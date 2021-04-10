@@ -1,0 +1,121 @@
+Day 41:
+
+Reading Deuteronomy, chapters ['5', '6', '7', '8']:
+
+  Chapter 5.
+
+    1: And Moses called all Israel, and said to them: Hear, O Israel, the ceremonies and judgments, which I speak in your ears this day: learn them, and fulfill them in work. 
+    2: The Lord our God made a covenant with us in Horeb. 
+    3: He made not the covenant with our fathers, but with us, who are now present and living. 
+    4: He spoke to us face to face in the mount out of the midst of fire. 
+    5: I was the mediator and stood between the Lord and you at that time, to shew you his words, for you feared the fire, and went not up into the mountain, and he said:
+    6: I am the Lord thy God, who brought thee out of the land of Egypt, out of the house of bondage. 
+    7: Thou shalt not have strange gods in my sight. 
+    8: Thou shalt not make to thyself a graven thing, nor the likeness of any things, that are in heaven above, or that are in the earth beneath, or that abide in the waters under the earth. 
+    9: Thou shalt not adore them, and thou shalt not serve them. For I am the Lord thy God, a jealous God, visiting the iniquity of the fathers upon their children unto the third and fourth generation, to them that hate me, 
+    10: And shewing mercy unto many thousands, to them that love me, and keep my commandments.
+    11: Thou shalt not take the name of the Lord thy God in vain: for he shall not be unpunished that taketh his name upon a vain thing. 
+    12: Observe the day of the sabbath, to sanctify it, as the Lord thy God hath commanded thee. 
+    13: Six days shalt thou labour, and shalt do all thy works. 
+    14: The seventh is the day of the sabbath, that is, the rest of the Lord thy God. Thou shalt not do any work therein, thou nor thy son nor thy daughter, nor thy manservant nor thy maidservant, nor thy ox, nor thy ass, nor any of thy beasts, nor the stranger that is within thy gates: that thy manservant and thy maidservant may rest, even as thyself. 
+    15: Remember that thou also didst serve in Egypt, and the Lord thy God brought thee out from thence with a strong hand, and a stretched out arm. Therefore hath he commanded thee that thou shouldst observe the sabbath day.
+    16: Honour thy father and mother, as the Lord thy God hath commanded thee, that thou mayst live a long time, and it may be well with thee in the land, which the Lord thy God will give thee. 
+    17: Thou shalt not kill. 
+    18: Neither shalt thou commit adultery. 
+    19: And thou shalt not steal. 
+    20: Neither shalt thou bear false witness against thy neighbour.
+    21: Thou shalt not covet thy neighbour's wife: nor his house, nor his field, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor any thing that is his. 
+    22: These words the Lord spoke to all the multitude of you in the mountain, out of the midst of the fire and the cloud, and the darkness, with a loud voice, adding nothing more: and he wrote them in two tables of stone, which he delivered unto me. 
+    23: But you, after you heard the voice out of the midst of the darkness, and saw the mountain burn, came to me, all the princes of the tribes and the elders, and you said: 
+    24: Behold the Lord our God hath shewn us his majesty and his greatness, we have heard his voice out of the midst of the fire, and have proved this day that God speaking with man, man hath lived. 
+    25: Why shall we die therefore, and why shall this exceeding great fire consume us: for if we hear the voice of the Lord our God any more, we shall die.
+    26: What is all flesh, that it should hear the voice of the living God, who speaketh out of the midst of the fire, as we have heard, and be able to live? 
+    27: Approach thou rather: and hear all things that the Lord our God shall say to thee, and thou shalt speak to us, and we will hear and will do them. 
+    28: And when the Lord had heard this, he said to me: I have heard the voice of the words of this people, which they spoke to thee: they have spoken all things well. 
+    29: Who shall give them to have such a mind, to fear me, and to keep all my commandments at all times, that it may be well with them and with their children for ever? 
+    30: Go and say to them: Return into your tents.
+    31: But stand thou here with me, and I will speak to thee all my commandments, and ceremonies and judgments: which thou shalt teach them, that they may do them in the land, which I will give them for a possession. 
+    32: Keep therefore and do the things which the Lord God hath commanded you: you shall not go aside neither to the right hand, nor to the left. 
+    33: But you shall walk in the way that the Lord your God hath commanded, that you may live, and it may be well with you, and your days may be long in the land of your possession.
+
+  Chapter 6.
+
+    1: These are the precepts, and ceremonies, and judgments, which the Lord your God commanded that I should teach you, and that you should do them in the land into which you pass over to possess it: 
+    2: That thou mayst fear the Lord thy God, and keep all his commandments and precepts, which I command thee, and thy sons, and thy grandsons, all the days of thy life, that thy days may be prolonged. 
+    3: Hear, O Israel, and observe to do the things which the Lord hath commanded thee, that it may be well with thee, and thou mayst be greatly multiplied, as the Lord the God of thy fathers hath promised thee a land flowing with milk and honey. 
+    4: Hear, O Israel, the Lord our God is one Lord. 
+    5: Thou shalt love the Lord thy God with thy whole heart, and with thy whole soul, and with thy whole strength.
+    6: And these words which I command thee this day, shall be in thy heart: 
+    7: And thou shalt tell them to thy children, and thou shalt meditate upon them sitting in thy house, and walking on thy journey, sleeping and rising. 
+    8: And thou shalt bind them as a sign on thy hand, and they shall be and shall move between thy eyes. 
+    9: And thou shalt write them in the entry, and on the doors of thy house. 
+    10: And when the Lord thy God shall have brought thee into the land, for which he swore to thy fathers Abraham, Isaac, and Jacob: and shall have given thee great and goodly cities, which thou didst not build,
+    11: Houses full of riches, which thou didst not set up, cisterns which thou didst not dig, vineyards and oliveyards, which thou didst not plant, 
+    12: And thou shalt have eaten and be full: 
+    13: Take heed diligently lest thou forget the Lord, who brought thee out of the land of Egypt, out of the house of bondage. Thou shalt fear the Lord thy God, and shalt serve him only, and thou shalt swear by his name. 
+    14: You shall not go after the strange gods of all the nations, that are round about you: 
+    15: Because the Lord thy God is a jealous God in the midst of thee: lest at any time the wrath of the Lord thy God be kindled against thee, and take thee away from the face of the earth.
+    16: Thou shalt not tempt the Lord thy God, as thou temptedst him in the place of temptation. 
+    17: Keep the precepts of the Lord thy God, and the testimonies and ceremonies which he hath commanded thee. 
+    18: And do that which is pleasing and good in the sight of the Lord, that it may be well with thee: and going in thou mayst possess the goodly land, concerning which the Lord swore to thy fathers, 
+    19: That he would destroy all thy enemies before thee, as he hath spoken. 
+    20: And when thy son shall ask thee tomorrow, saying: What mean these testimonies, and ceremonies and judgments, which the Lord our God hath commanded us?
+    21: Thou shalt say to him: We were bondmen of Pharao in Egypt, and the Lord brought us out of Egypt with a strong hand. 
+    22: And he wrought signs and wonders great and very grievous in Egypt against Pharao, and all his house, in our sight, 
+    23: And he brought us out from thence, that he might bring us in and give us the land, concerning which he swore to our fathers. 
+    24: And the Lord commanded that we should do all these ordinances, and should fear the Lord our God, that it might be well with us all the days of our life, as it is at this day. 
+    25: And he will be merciful to us, if we keep and do all his precepts before the Lord our God, as he hath commanded us.
+
+  Chapter 7.
+
+    1: When the Lord thy God shall have brought thee into the land, which thou art going in to possess, and shall have destroyed many nations before thee, the Hethite, and the Gergezite, and the Amorrhite, and the Chanaanite, and the Pherezite, and the Hevite, and the Jebusite, seven nations much more numerous than thou art, and stronger than thou: 
+    2: And the Lord thy God shall have delivered them to thee, thou shalt utterly destroy them. Thou shalt make no league with them, nor shew mercy to them: 
+    3: Neither shalt thou make marriages with them. Thou shalt not give thy daughter to his son, nor take his daughter for thy son: 
+    4: For she will turn away thy son from following me, that he may rather serve strange gods, and the wrath of the Lord will be kindled, and will quickly destroy thee. 
+    5: But thus rather shall you deal with them: Destroy their altars, and break their statues, and cut down their groves, and burn their graven things.
+    6: Because thou art a holy people to the Lord thy God. The Lord thy God hath chosen thee, to be his peculiar people of all peoples that are upon the earth. 
+    7: Not because you surpass all nations in number, is the Lord joined unto you, and hath chosen you, for you are the fewest of any people: 
+    8: But because the Lord hath loved you, and hath kept his oath, which he swore to your fathers: and hath brought you out with a strong hand, and redeemed you from the house of bondage, out of the hand of Pharao the king of Egypt. 
+    9: And thou shalt know that the Lord thy God, he is a strong and faithful God, keeping his covenant and mercy to them that love him, and to them that keep his commandments, unto a thousand generations: 
+    10: And repaying forthwith them that hate him, so as to destroy them, without further delay immediately rendering to them what they deserve.
+    11: Keep therefore the precepts and ceremonies and judgments, which I command thee this day to do. 
+    12: If after thou hast heard these judgments, thou keep and do them, the Lord thy God will also keep his covenant to thee, and the mercy which he swore to thy fathers: 
+    13: And he will love thee and multiply thee, and will bless the fruit of thy womb, and the fruit of thy land, thy corn, and thy vintage, thy oil, and thy herds, and the flocks of thy sheep upon the land, for which he swore to thy fathers that he would give it thee. 
+    14: Blessed shalt thou be among all people. No one shall be barren among you of either sex, neither of men nor cattle. 
+    15: The Lord will take away from thee all sickness: and the grievous infirmities of Egypt, which thou knowest, he will not bring upon thee, but upon thy enemies.
+    16: Thou shalt consume all the people, which the Lord thy God will deliver to thee. Thy eye shall not spare them, neither shalt thou serve their gods, lest they be thy ruin. 
+    17: If thou say in thy heart: These nations are more than I, how shall I be able to destroy them? 
+    18: Fear not, but remember what the Lord thy God did to Pharao and to all the Egyptians, 
+    19: The exceeding great plagues, which thy eyes saw, and the signs and wonders, and the strong hand, and the stretched out arm, with which the Lord thy God brought thee out: so will he do to all the people, whom thou fearest. 
+    20: Moreover the Lord thy God will send also hornets among them, until he destroy and consume all that have escaped thee, and could hide themselves.
+    21: Thou shalt not fear them, because the Lord thy God is in the midst of thee, a God mighty and terrible: 
+    22: He will consume these nations in thy sight by little and little and by degrees. Thou wilt not be able to destroy them altogether: lest perhaps the beasts of the earth should increase upon thee. 
+    23: But the Lord thy God shall deliver them in thy sight: and shall slay them until they be utterly destroyed. 
+    24: And he shall deliver their kings into thy hands, and thou shalt destroy their names from under Heaven: no man shall be able to resist thee, until thou destroy them. 
+    25: Their graven things thou shalt burn with fire: thou shalt not covet the silver and gold of which they are made, neither shalt thou take to thee any thing thereof, lest thou offend, because it is an abomination to the Lord thy God.
+    26: Neither shalt thou bring any thing of the idol into thy house, lest thou become an anathema, like it. Thou shalt detest it as dung, and shalt utterly abhor it as uncleanness and filth, because it is an anathema.
+
+  Chapter 8.
+
+    1: All the commandments, that I command thee this day, take great care to observe: that you may live, and be multiplied, and going in may possess the land, for which the Lord swore to your fathers. 
+    2: And thou shalt remember all the way through which the Lord thy God hath brought thee for forty years through the desert, to afflict thee and to prove thee, and that the things that were in thy heart might be made known, whether thou wouldst keep his commandments or no. 
+    3: He afflicted thee with want, and gave thee manna for thy food, which neither thou nor thy fathers knew: to shew that not in bread alone doth man live, but in every word that proceedeth from the mouth of God. 
+    4: Thy raiment, with which thou wast covered, hath not decayed for age, and thy foot is not worn, lo this is the fortieth year, 
+    5: That thou mayst consider in thy heart, that as a man traineth up his son, so the Lord thy God hath trained thee up.
+    6: That thou shouldst keep the commandments of the Lord thy God, and walk in his ways, and fear him. 
+    7: For the Lord thy God will bring thee into a good land, of brooks and of waters, and of fountains: in the plains of which and the hills deep rivers break out: 
+    8: A land of wheat, and barley, and vineyards, wherein fig trees and pomegranates, and oliveyards grow: a land of oil and honey. 
+    9: Where without any want thou shalt eat thy bread, and enjoy abundance of all things: where the stones are iron, and out of its hills are dug mines of brass: 
+    10: That when thou hast eaten, and art full, thou mayst bless the Lord thy God for the excellent land which he hath given thee.
+    11: Take heed, and beware lest at any time thou forget the Lord thy God, and neglect his commandments and judgments and ceremonies, which I command thee this day: 
+    12: Lest after thou hast eaten and art filled, hast built goodly houses, and dwelt in them, 
+    13: And shalt have herds of oxen and flocks of sheep, and plenty of gold and of silver, and of all things, 
+    14: Thy heart be lifted up, and thou remember not the Lord thy God, who brought thee out of the land of Egypt, out of the house of bondage: 
+    15: And was thy leader in the great and terrible wilderness, wherein there was the serpent burning with his breath, and the scorpion and the dipsas, and no waters at all: who brought forth streams out of the hardest rock,
+    16: And fed thee in the wilderness with manna which thy fathers knew not. And after he had afflicted and proved thee, at the last he had mercy on thee, 
+    17: Lest thou shouldst say in thy heart: My own might, and the strength of my own hand have achieved all these things for me. 
+    18: But remember the Lord thy God, that he hath given thee strength, that he might fulfill his covenant, concerning which he swore to thy fathers, as this present day sheweth. 
+    19: But if thou forget the Lord thy God, and follow strange gods, and serve and adore them: behold now I foretell thee that thou shalt utterly perish. 
+    20: As the nations, which the Lord destroyed at thy entrance, so shall you also perish, if you be disobedient to the voice of the Lord your God.
+
+End of day 41.

@@ -1,0 +1,113 @@
+Day 165:
+
+Reading Psalms, chapters ['85', '86', '87', '88']:
+
+  Chapter 85.
+
+    1: A prayer for David himself. Incline thy ear, O Lord, and hear me: for I am needy and poor. 
+    2: Preserve my soul, for I am holy: save thy servant, O my God, that trusteth in thee. 
+    3: Have mercy on me, O Lord, for I have cried to thee all the day. 
+    4: Give joy to the soul of thy servant, for to thee, O Lord, I have lifted up my soul. 
+    5: For thou, O Lord, art sweet and mild: and plenteous in mercy to all that call upon thee.
+    6: Give ear, O Lord, to my prayer: and attend to the voice of my petition. 
+    7: I have called upon thee in the day of my trouble: because thou hast heard me. 
+    8: There is none among the gods like unto thee, O Lord: and there is none according to thy works. 
+    9: All the nations thou hast made shall come and adore before thee, O Lord: and they shall glorify thy name. 
+    10: For thou art great and dost wonderful things: thou art God alone.
+    11: Conduct me, O Lord, in thy way, and I will walk in thy truth: let my heart rejoice that it may fear thy name. 
+    12: I will praise thee, O Lord my God: with my whole heart, and I will glorify thy name for ever: 
+    13: For thy mercy is great towards me: and thou hast delivered my soul out of the lower hell. 
+    14: O God, the wicked are risen up against me, and the assembly of the mighty have sought my soul: and they have not set thee before their eyes. 
+    15: And thou, O Lord, art a God of compassion, and merciful, patient, and of much mercy, and true.
+    16: O look upon me, and have mercy on me: give thy command to thy servant, and save the son of thy handmaid. 
+    17: shew me a token for good: that they who hate me may see, and be confounded, because thou, O Lord, hast helped me and hast comforted me.
+
+  Chapter 86.
+
+    1: For the sons of Core, a psalm of a canticle. The foundations thereof are in the holy mountains: 
+    2: The Lord loveth the gates of Sion above all the tabernacles of Jacob. 
+    3: Glorious things are said of thee, O city of God. 
+    4: I will be mindful of Rahab and of Babylon knowing me. Behold the foreigners, and Tyre, and the people of the Ethiopians, these were there. 
+    5: Shall not Sion say: This man and that man is born in her? and the Highest himself hath founded her.
+    6: The Lord shall tell in his writings of peoples and of princes, of them that have been in her. 
+    7: The dwelling in thee is as it were of all rejoicing.
+
+  Chapter 87.
+
+    1: A canticle of a psalm for the sons of Core: unto the end, for Maheleth, to answer understanding of Eman the Ezrahite. 
+    2: O Lord, the God of my salvation: I have cried in the day, and in the night before thee. 
+    3: Let my prayer come in before thee: incline thy ear to my petition. 
+    4: For my soul is filled with evils: and my life hath drawn nigh to hell. 
+    5: I am counted among them that go down to the pit: I am become as a man without help,
+    6: Free among the dead. Like the slain sleeping in the sepulchres, whom thou rememberest no more: and they are cast off from thy hand. 
+    7: They have laid me in the lower pit: in the dark places, and in the shadow of death. 
+    8: Thy wrath is strong over me: and all thy waves thou hast brought in upon me. 
+    9: Thou hast put away my acquaintance far from me: they have set me an abomination to themselves. I was delivered up, and came not forth: 
+    10: My eyes languished through poverty. All the day I cried to thee, O Lord: I stretched out my hands to thee.
+    11: Wilt thou shew wonders to the dead? or shall physicians raise to life, and give praise to thee? 
+    12: Shall any one in the sepulchre declare thy mercy: and thy truth in destruction? 
+    13: Shall thy wonders be known in the dark; and thy justice in the land of forgetfulness? 
+    14: But I, O Lord, have cried to thee: and in the morning my prayer shall prevent thee. 
+    15: Lord, why castest thou off my prayer: why turnest thou away thy face from me?
+    16: I am poor, and in labours from my youth: and being exalted have been humbled and troubled. 
+    17: Thy wrath hath come upon me: and thy terrors have troubled me. 
+    18: They have come round about me like water all the day: they have compassed me about together. 
+    19: Friend and neighbour thou hast put far from me: and my acquaintance, because of misery.
+
+  Chapter 88.
+
+    1: Of understanding, for Ethan the Ezrahite. 
+    2: The mercies of the Lord I will sing for ever. I will shew forth thy truth with my mouth to generation and generation. 
+    3: For thou hast said: Mercy shall be built up for ever in the heavens: thy truth shall be prepared in them. 
+    4: I have made a covenant with my elect: I have sworn to David my servant: 
+    5: Thy seed will I settle for ever. And I will build up thy throne unto generation and generation.
+    6: The heavens shall confess thy wonders, O Lord: and thy truth in the church of the saints. 
+    7: For who in the clouds can be compared to the Lord: or who among the sons of God shall be like to God? 
+    8: God, who is glorified in the assembly of the saints: great and terrible above all them that are about him. 
+    9: O Lord God of hosts, who is like to thee? thou art mighty, O Lord, and thy truth is round about thee. 
+    10: Thou rulest the power of the sea: and appeasest the motion of the waves thereof.
+    11: Thou hast humbled the proud one, as one that is slain: with the arm of thy strength thou hast scattered thy enemies. 
+    12: Thine are the heavens, and thine is the earth: the world and the fulness thereof thou hast founded: 
+    13: The north and the sea thou hast created. Thabor and Hermon shall rejoice in thy name: 
+    14: Thy arm is with might. Let thy hand be strengthened, and thy right hand exalted: 
+    15: Justice and judgment are the preparation of thy throne. Mercy and truth shall go before thy face:
+    16: Blessed is the people that knoweth jubilation. They shall walk, O Lord, in the light of thy countenance: 
+    17: And in thy name they shall rejoice all the day, and in thy justice they shall be exalted. 
+    18: For thou art the glory of their strength: and in thy good pleasure shall our horn be exalted. 
+    19: For our protection is of the Lord, and of our king the holy one of Israel. 
+    20: Then thou spokest in a vision to thy saints, and saidst: I have laid help upon one that is mighty, and have exalted one chosen out of my people.
+    21: I have found David my servant: with my holy oil I have anointed him. 
+    22: For my hand shall help him: and my arm shall strengthen him. 
+    23: The enemy shall have no advantage over him: nor the son of iniquity have power to hurt him. 
+    24: And I will cut down his enemies before his face; and them that hate him I will put to flight. 
+    25: And my truth and my mercy shall be with him: and in my name shall his horn be exalted.
+    26: And I will set his hand in the sea; and his right hand in the rivers. 
+    27: He shall cry out to me: Thou art my father: my God, and the support of my salvation. 
+    28: And I will make him my firstborn, high above the kings of the earth. 
+    29: I will keep my mercy for him for ever: and my covenant faithful to him. 
+    30: And I will make his seed to endure for evermore: and his throne as the days of heaven.
+    31: And if his children forsake my law, and walk not in my judgments: 
+    32: If they profane my justices: and keep not my commandments: 
+    33: I will visit their iniquities with a rod: and their sins with stripes. 
+    34: But my mercy I will not take away from him: nor will I suffer my truth to fail. 
+    35: Neither will I profane my covenant: and the words that proceed from my mouth I will not make void.
+    36: Once have I sworn by my holiness: I will not lie unto David: 
+    37: His seed shall endure for ever. 
+    38: And his throne as the sun before me: and as the moon perfect for ever, and a faithful witness in heaven. 
+    39: But thou hast rejected and despised: thou hast been angry with thy anointed. 
+    40: Thou hast overthrown the covenant of thy servant: thou hast profaned his sanctuary on the earth.
+    41: Thou hast broken down all his hedges: thou hast made his strength fear. 
+    42: All that pass by the way have robbed him: he is become a reproach to his neighbours. 
+    43: Thou hast set up the right hand of them that oppress him: thou hast made all his enemies to rejoice. 
+    44: Thou hast turned away the help of his sword; and hast not assisted him in battle. 
+    45: Thou hast made his purification to cease: and thou hast cast his throne down to the ground.
+    46: Thou hast shortened the days of his time: thou hast covered him with confusion. 
+    47: How long, O Lord, turnest thou away unto the end? shall thy anger burn like fire? 
+    48: Remember what my substance is for hast thou made all the children of men in vain? 
+    49: Who is the man that shall live, and not see death: that shall deliver his soul from the hand of hell? 
+    50: Lord, where are thy ancient mercies, according to what thou didst swear to David in thy truth?
+    51: Be mindful, O Lord, of the reproach of thy servants (which I have held in my bosom) of many nations: 
+    52: Wherewith thy enemies have reproached, O Lord; wherewith they have reproached the change of thy anointed. 
+    53: Blessed be the Lord for evermore. So be it. So be it.
+
+End of day 165.

@@ -1,0 +1,178 @@
+Day 76:
+
+Reading 1-Kings, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: Now king David was old, and advanced in years: and when he was covered with clothes, he was not warm. 
+    2: His servants therefore said to him: Let us seek for our lord the king, a young virgin, and let her stand before the king, and cherish him, and sleep in his bosom, and warm our lord the king. 
+    3: So they sought a beautiful young woman in all the coasts of Israel, and they found Abisag a Sunamitess, and brought her to the king. 
+    4: And the damsel was exceeding beautiful, and she slept with the king: and served him, but the king did not know her. 
+    5: And Adonias the son of Haggith exalted himself, saying: I will be king. And he made himself chariots and horsemen, and fifty men to run before him.
+    6: Neither did his father rebuke him at any time, saying: Why hast thou done this? And he also was very beautiful, the next in birth after Absalom. 
+    7: And he conferred with Joab the son of Sarvia, and with Abiathar the priest, who furthered Adonias's side. 
+    8: But Sadoc the priest, and Banaias the son of Joiada, and Nathan the prophet, and Semei, and Rei, and the strength of David's army was not with Adonias. 
+    9: And Adonias having slain rams and calves, and all fat cattle by the stone of Zoheleth, which was near the fountain Rogel, invited all his brethren the king's sons, and all the men of Juda, the king's servants: 
+    10: But Nathan the prophet, and Banaias, and all the valiant men, and Solomon his brother, he invited not.
+    11: And Nathan said to Bethsabee the mother of Solomon: Hast thou not heard that Adonias the son of Haggith reigneth, and our lord David knoweth it not? 
+    12: Now then come, take my counsel and save thy life, and the life of thy son Solomon. 
+    13: Go, and get thee in to king David, and say to him: Didst not thou, my lord O king, swear to me thy handmaid, saying: Solomon thy son shall reign after me, and he shall sit on my throne? why then doth Adonias reign? 
+    14: And while thou art yet speaking there with the king, I will come in after thee, and will fill up thy words. 
+    15: So Bethsabee went in to the king into the chamber: now the king was very old, and Abisag the Sunamitess ministered to him.
+    16: Bethsabee bowed herself, and worshipped the king. And the king said to her: What is thy will? 
+    17: She answered and said: My lord, thou didst swear to thy handmaid by the Lord thy God, saying: Solomon thy son shall reign after me, and he shall sit on my throne. 
+    18: And behold now Adonias reigneth, and thou, my lord the king, knowest nothing of it. 
+    19: He hath killed oxen, and all fat cattle, and many rams, and invited all the king's sons, and Abiathar the priest, and Joab the general of the army: but Solomon thy servant he invited not. 
+    20: And now, my lord O king, the eyes of all Israel are upon thee, that thou shouldst tell them, who shall sit on thy throne, my lord the king, after thee.
+    21: Otherwise it shall come to pass, when my lord the king sleepeth with his fathers, that I and my son Solomon shall be counted offenders. 
+    22: As she was yet speaking with the king, Nathan the prophet came. 
+    23: And they told the king, saying: Nathan the prophet is here. And when he was come in before the king, and had worshipped, bowing down to the ground, 
+    24: Nathan said: My lord O king, hast thou said: Let Adonias reign after me, and let him sit upon my throne? 
+    25: Because he is gone down today, and hath killed oxen, and fatlings, and many rams, and invited all the king's sons, and the captains of the army, and Abiathar the priest: and they are eating and drinking before him, and saying: God save king Adonias:
+    26: But me thy servant, and Sadoc the priest, and Banaias the son of Joiada, and Solomon thy servant he hath not invited. 
+    27: Is this word come out from my lord the king, and hast thou not told me thy servant who should sit on the throne of my lord the king after him? 
+    28: And king David answered and said: Call to me Bethsabee. And when she was come in to the king, and stood before him, 
+    29: The king swore and said: As the Lord liveth, who hath delivered my soul out of all distress, 
+    30: Even as I swore to thee by the Lord the God of Israel, saying: Solomon thy son shall reign after me, and he shall sit upon my throne in my stead, so will I do this day.
+    31: And Bethsabee bowing with her face to the earth worshipped the king, saying: May my lord David live for ever. 
+    32: King David also said: Call me Sadoc the priest, and Nathan the prophet, and Banaias the son of Joiada. And when they were come in before the king, 
+    33: He said to them: Take with you the servants of your lord, and set my son Solomon upon my mule: and bring him to Gihon. 
+    34: And let Sadoc the priest, and Nathan the prophet anoint him there king over Israel: and you shall sound the trumpet, and shall say: God save king Solomon. 
+    35: And you shall come up after him, and he shall come, and shall sit upon my throne, and he shall reign in my stead: and I will appoint him to be ruler over Israel, and over Juda.
+    36: And Banaias the son of Joiada answered the king, saying: Amen: so say the Lord the God of my lord the king. 
+    37: As the Lord hath been with my lord the king, so be he with Solomon, and make his throne higher than the throne of my lord king David. 
+    38: So Sadoc the priest, and Nathan the prophet went down, and Banaias the son of Joiada, and the Cerethi, and Phelethi: and they set Solomon upon the mule of king David, and brought him to Gihon. 
+    39: And Sadoc the priest took a horn of oil out of the tabernacle, and anointed Solomon: and they sounded the trumpet, and all the people said: God save king Solomon. 
+    40: And all the multitude went up after him, and the people played with pipes, and rejoiced with a great joy, and the earth rang with the noise of their cry.
+    41: And Adonias, and all that were invited by him, heard it, and now the feast was at an end: Joab also hearing the sound of the trumpet, said: What meaneth this noise of the city in an uproar? 
+    42: While he yet spoke, Jonathan the son of Abiathar the priest came: and Adonias said to him: Come in, because thou art a valiant man, and bringest good news. 
+    43: And Jonathan answered Adonias: Not so: for our lord king David hath appointed Solomon king. 
+    44: And hath sent with him Sadoc the priest, and Nathan the prophet, and Banaias the son of Joiada, and the Cerethi, and Phelethi, and they have set him upon the king's mule. 
+    45: And Sadoc the priest, and Nathan the prophet have anointed him king in Gihon: and they are gone up from thence rejoicing, so that the city rang again: this is the noise that you have heard.
+    46: Moreover Solomon sitteth upon the throne of the kingdom, 
+    47: And the king's servants going in have blessed our lord king David, saying: May God make the name of Solomon greater than thy name, and make his throne greater than thy throne. And the king adored in his bed: 
+    48: And he said: Blessed be the Lord the God of Israel, who hath given this day one to sit on my throne, my eyes seeing it. 
+    49: Then all the guests of Adonias were afraid, and they all arose and every man went his way. 
+    50: And Adonias fearing Solomon, arose, and went, and took hold on the horn of the altar.
+    51: And they told Solomon, saying: Behold Adonias, fearing king Solomon, hath taken hold of the horn of the altar, saying: Let king Solomon swear to me this day, that he will not kill his servant with the sword. 
+    52: And Solomon said: If he be a good man, there shall not so much as one hair of his head fall to the ground: but if evil be found in him, he shall die. 
+    53: Then king Solomon sent, and brought him out from the altar: and going in he worshipped king Solomon: and Solomon said to him: Go to thy house.
+
+  Chapter 2.
+
+    1: And the days of David drew nigh that he should die, and he charged his son Solomon, saying: 
+    2: I am going the way of all flesh: take thou courage, and shew thyself a man. 
+    3: And keep the charge of the Lord thy God, to walk in his ways, and observe his ceremonies, and his precepts, and judgments, and testimonies, as it is written in the law of Moses: that thou mayest understand all thou dost, and whithersoever thou shalt turn thyself: 
+    4: That the Lord may confirm his words, which he hath spoken of me, saying: If thy children shall take heed to their ways, and shall walk before me in truth, with all their heart, and with all their soul, there shall not be taken away from thee a man on the throne of Israel. 
+    5: Thou knowest also what Joab the son of Sarvia hath done to me, what he did to the two captains of the army of Israel, to Abner the son of Ner, and to Amasa the son of Jether: whom he slew, and shed the blood of war in peace, and put the blood of war on his girdle that was about his loins, and in his shoes that were on his feet.
+    6: Do therefore according to thy wisdom, and let not his hoary head go down to hell in peace. 
+    7: But shew kindness to the sons of Berzellai the Galaadite, and let them eat at thy table: for they met me when I fled from the face of Absalom thy brother. 
+    8: Thou hast also with thee Semei the son of Gera the son of Jemini of Bahurim, who cursed me with a grievous curse, when I went to the camp: but because he came down to meet me when I passed over the Jordan, and I swore to him by the Lord, saying: I will not kill thee with a sword: 
+    9: Do not thou hold him guiltless. But thou art a wise man, and knowest what to do with him, and thou shalt bring down his grey hairs with blood to hell. 
+    10: So David slept with his fathers, and was buried in the city of David.
+    11: And the days that David reigned in Israel, were forty years: in Hebron he reigned seven years, in Jerusalem thirty-three. 
+    12: And Solomon sat upon the throne of his father David, and his kingdom was strengthened exceedingly. 
+    13: And Adonias the son of Haggith came to Bethsabee the mother of Solomon. And she said to him: Is thy coming peaceable? he answered: Peaceable. 
+    14: And he added: I have a word to speak with thee. She said to him: Speak. And he said: 
+    15: Thou knowest that the kingdom was mine, and all Israel had preferred me to be their king: but the kingdom is transferred, and is become my brother's: for it was appointed him by the Lord.
+    16: Now therefore I ask one petition of thee: turn not away my face. And she said to him: Say on. 
+    17: And he said: I pray thee speak to king Solomon (for he cannot deny thee any thing) to give me Abisag the Sunamitess to wife. 
+    18: And Bethsabee said: Well, I will speak for thee to the king. 
+    19: Then Bethsabee came to king Solomon, to speak to him for Adonias: and the king arose to meet her, and bowed to her, and sat down upon his throne: and a throne was set for the king's mother, and she sat on his right hand. 
+    20: And she said to him: I desire one small petition of thee, do not put me to confusion. And the king said to her: My mother, ask: for I must not turn away thy face.
+    21: And she said: Let Abisag the Sunamitess be given to Adonias thy brother to wife. 
+    22: And king Solomon answered, and said to his mother: Why dost thou ask Abisag the Sunamitess for Adonias? ask for him also the kingdom: for he is my elder brother, and hath Abiathar the priest, and Joab the son of Sarvia. 
+    23: Then king Solomon swore by the Lord, saying: So and so may God do to me, and add more, if Adonias hath not spoken this word against his own life. 
+    24: And now as the Lord liveth, who hath established me, and placed me upon the throne of David my father, and who hath made me a house, as he promised, Adonias shall be put to death this day. 
+    25: And king Solomon sent by the hand of Banaias the son of Joiada, who slew him, and he died.
+    26: And the king said also to Abiathar the priest: Go to Anathoth to thy lands, for indeed thou art worthy of death: but I will not at this time put thee to death, because thou didst carry the ark of the Lord God before David my father, and hast endured trouble in all the troubles my father endured. 
+    27: So Solomon cast out Abiathar, from being the priest of the Lord, that the word of the Lord might be fulfilled, which he spoke concerning the house of Deli in Silo. 
+    28: And the news came to Joab, because Joab had turned after Adonias, and had not turned after Solomon: and Joab fled into the tabernacle of the Lord and laid hold on the horn of the altar. 
+    29: And it was told king Solomon, that Joab was fled into the tabernacle of the Lord, and was by the altar: and Solomon sent Banaias the son of Joiada, saying: Go, kill him. 
+    30: And Banaias came to the tabernacle of the Lord, and said to him: Thus saith the king: Come forth. And he said: I will not come forth, but here I will die. Banaias brought word back to the king, saying: Thus saith Joab, and thus he answered me.
+    31: And the king said to him: Do as he hath said: and kill him, and bury him, and thou shalt remove the innocent blood which hath been shed by Joab, from me, and from the house of my father. 
+    32: And the Lord shall return his blood upon his own head, because he murdered two men, just and better than himself: and slew them with the sword, my father David not knowing it, Abner the son of Ner, general of the army of Israel, and Amasa the son of Jether, general of the army of Juda. 
+    33: And their blood shall return the head of Joab, and upon the head of his seed for ever. But to David and his seed and his house, and to his throne be peace for ever from the Lord. 
+    34: So Banaias the son of Joiada went up, and setting upon him slew him, and he was buried in his house in the desert. 
+    35: And the king appointed Banaias the son of Joiada in his room over the army, and Sadoc the priest he put in the place of Abiathar.
+    36: The king also sent, and called for Semei, and said to him: Build thee a house in Jerusalem, and dwell there: and go not out from thence any whither. 
+    37: For on what day soever thou shalt go out, and shalt pass over the brook Cedron, know that thou shalt be put to death: thy blood shall be upon thy own head: 
+    38: And Semei said to the king: The saying is good: as my lord the king hath said, so will thy servant do. And Semei dwelt in Jerusalem, many days. 
+    39: And it came to pass after three years, that the servants of Semei ran away to Achis the son of Maacha the king of Geth: and it was told Semei that his servants were gone to Geth. 
+    40: And Semei arose, and saddled his ass, and went to Achis to Geth to seek his servants, and he brought them out of Geth.
+    41: And it was told Solomon that Semei had gone from Jerusalem to Geth, and was come back. 
+    42: And sending he called for him, and said to him: Did I not protest to thee by the Lord, and tell thee before: On what day soever thou shalt go out and walk abroad any whither, know that thou shalt die? And thou answeredst me: The word that I have heard is good. 
+    43: Why then hast thou not kept the oath of the Lord, and the commandment that I laid upon thee? 
+    44: And the king said to Semei: Thou knowest all the evil, of which thy heart is conscious, which thou didst to David my father: the Lord hath returned thy wickedness upon thy own head: 
+    45: And king Solomon shall be blessed, and the throne of David shall be established before the Lord for ever.
+    46: So the king commanded Banaias the son of Joiada: and he went out and struck him, and he died.
+
+  Chapter 3.
+
+    1: And the kingdom was established in the hand of Solomon, and he made affinity with Pharao the king of Egypt: for he took his daughter, and brought her into the city of David, until he had made an end of building his own house, and the house of the Lord, and the wall of Jerusalem round about. 
+    2: But yet the people sacrificed in the high places: far there was no temple built to the name of the Lord until that day. 
+    3: And Solomon loved the Lord, walking in the precepts of David his father, only he sacrificed in the high places: and burnt incense. 
+    4: He went therefore to Gabaon, to sacrifice there: for that was the great high place: a thousand victims for holocausts did Solomon offer upon that altar in Gabaon. 
+    5: And the Lord appeared to Solomon in a dream by night, saying: Ask what thou wilt that I should give thee.
+    6: And Solomon said: Thou hast shewn great mercy to thy servant David my father, even at, he walked before thee in truth, and justice, and an upright heart with thee: and thou hast kept thy great mercy for him, and hast given him a son to sit on his throne, as it is this day. 
+    7: And now, O Lord God, thou hast made thy servant king instead of David my father: and I am but a child, and know not how to go out and come in. 
+    8: And thy servant is in the midst of the people which thou hast chosen, an immense people, which cannot be numbered nor counted for multitude. 
+    9: Give therefore to thy servant an understanding heart, to judge thy people, and discern between good and evil. For who shall be able to judge this people, thy people which is so numerous? 
+    10: And the word was pleasing to the Lord that Solomon had asked such a thing.
+    11: And the Lord said to Solomon: Because thou hast asked this thing, and hast not asked for thyself long life or riches, nor the lives of thy enemies, but hast asked for thyself wisdom to discern judgment, 
+    12: Behold I have done for thee according to thy words, and have given thee a wise and understanding heart, insomuch that there hath been no one like thee before thee, nor shall arise after thee. 
+    13: Yea and the things also which thou didst not ask, I have given thee: to wit riches and glory, as that no one hath been like thee among the kings in all days heretofore. 
+    14: And if thou wilt walk in my ways, and keep my precepts, and my commandments, as thy father walked, I will lengthen thy days. 
+    15: And Solomon awaked, and perceived that it was a dream: and when he was come to Jerusalem, he stood before the ark of the covenant of the Lord, and offered holocausts, and sacrificed victims of peace offerings, and made a great feast for all his servants.
+    16: Then there came two women that were harlots, to the king, and stood before him: 
+    17: And one of them said: I beseech thee, my lord, I and this woman dwelt in one house, and I was delivered of a child with her in the chamber. 
+    18: And the third day, after that I was delivered, she also was delivered, and we were together, and no other person with us in the house, only we two. 
+    19: And this woman's child died in the night: for in her sleep she overlaid him. 
+    20: And rising in the dead time of the night, she took my child from my side, while I thy handmaid was asleep, and laid it in her bosom: and laid her dead child in my bosom.
+    21: And when I rose in the morning to give my child suck, behold it was dead: but considering him more diligently when it was clear day, I found that it was not mine which I bore. 
+    22: And the other woman answered: It is not so as thou sayest, but thy child is dead, and mine is alive. On the contrary she said: Thou liest: for my child liveth, and thy child is dead. And in this manner they strove before the king. 
+    23: Then said the king: The one saith, My child is alive, and thy child is dead. And the other answereth: Nay, but thy child is dead, and mine liveth. 
+    24: The king therefore said: Bring me a sword. And when they had brought a sword before the king, 
+    25: Divide, said he, the living child in two, and give half to the one, and half to the other.
+    26: But the woman whose child was alive, said to the king, (for her bowels were moved upon her child,) I beseech thee, my lord, give her the child alive, and do not kill it. But the other said: Let it be neither mine nor thine, but divide it. 
+    27: The king answered, and said: Give the living child to this woman, and let it not be killed, for she is the mother thereof. 
+    28: And all Israel heard the judgment which the king had judged, and they feared the king, seeing that the wisdom of God was in him to do judgment.
+
+  Chapter 4.
+
+    1: And king Solomon reigned over all Israel: 
+    2: And these were the princes which he had: Azarias the son of Sadoc the priest: 
+    3: Elihoreph, and Ahia, the sons of Sisa, scribes: Josaphat the son of Ahilud, recorder: 
+    4: Banaias the son of Joiada, over the army: and Sadoc and Abiathar priests. 
+    5: Azarias the son of Nathan, over them that were about the king: Zabud, the son of Nathan the priest, the king's friend:
+    6: And Ahisar governor of the house: and Adoniram the son of Abda over the tribute. 
+    7: And Solomon had twelve governors over all Israel, who provided victuals for the king and for his household: for every one provided necessaries, each man his month in the year. 
+    8: And these are their names: Benhur, in mount Ephraim, 
+    9: Bendecar, in Macces, and in Salebim, and in Bethsames, and in Elon, and in Bethanan. 
+    10: Benhesed in Aruboth: his was Socho, and all the land of Epher.
+    11: Benabinadab, to whom belonged all Nephath-Dor, he had Tapheth the daughter of Solomon to wife. 
+    12: Bana the son of Ahilud, who governed Thanac and Mageddo, and all Bethsan, which is by Sarthana beneath Jezrael, from Bethsan unto Abelmehula over against Jecmaan. 
+    13: Bengaber in Ramoth Galaad: he had the towns of Jair the son of Manasses in Galaad, he was chief in all the country of Argob, which is in Basan, threescore great cities with walls, and brazen bolts. 
+    14: Abinadab the son of Addo was chief in Manaim. 
+    15: Achimaas in Nephtali: he also had Basemath the daughter of Solomon to wife.
+    16: Baana the son of Husi, in Aser and in Baloth. 
+    17: Josaphat the son of Pharue, in Issachar. 
+    18: Semei the son of Ela in Benjamin. 
+    19: Gaber the son of Uri, in the land of Galaad, in the land of Sehon the king of the Amorrhites and of Og the king of Basan, over all that were in that land. 
+    20: Juda and Israel were innumerable, as the sand of the sea in multitude: eating and drinking, and rejoicing.
+    21: And Solomon had under him all the kingdoms from the river to the land of the Philistines, even to the border of Egypt: and they brought him presents, and served him, all the days of his life. 
+    22: And the provision of Solomon for each day was thirty measures of fine flour, and threescore measures of meal, 
+    23: Ten fat oxen and twenty out of the pastures, and a hundred rams, besides venison of harts, roes, and buffles, and fatted fowls. 
+    24: For he had all the country which was beyond the river, from Thaphsa to Gazan, and all the kings of those countries: and he had peace on every side round about. 
+    25: And Juda and Israel dwelt without any fear, every one under his vine, and under his fig tree, from Dan to Bersabee, all the days of Solomon.
+    26: And Solomon had forty thousand stalls of chariot horses, and twelve thousand for the saddle. 
+    27: And the foresaid governors of the king fed them: and they furnished the necessaries also for king Solomon's table, with great care in their time. 
+    28: They brought barley also and straw for the horses, and beasts, to the place where the king was, according as it was appointed them. 
+    29: And God gave to Solomon wisdom and understanding exceeding much, and largeness of heart as the sand that is on the sea shore. 
+    30: And the wisdom of Solomon surpassed the wisdom of all the Orientals, and of the Egyptians,
+    31: And he was wiser than all men: wiser than Ethan the Ezrahite, and Heman, and Chalcol, and Dorda the sons of Mahol, and he was renowned in all nations round about. 
+    32: Solomon also spoke three thousand parables: and his poems were a thousand and five. 
+    33: And he treated about trees from the cedar that is in Libanus, unto the hyssop that cometh out of the wall: and he discoursed of beasts, and of fowls, and of creeping things, and of fishes. 
+    34: And they came from all nations to hear the wisdom of Solomon, and from all the kings of the earth, who heard of his wisdom.
+
+End of day 76.

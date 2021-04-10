@@ -1,0 +1,116 @@
+Day 2:
+
+Reading Genesis, chapters ['5', '6', '7', '8']:
+
+  Chapter 5.
+
+    1: This is the book of the generation of Adam. In the day that God created man, he made him to the likeness of God. 
+    2: He created them male and female; and blessed them: and called their name Adam, in the day when they were created. 
+    3: And Adam lived a hundred and thirty years, and begot a son to his own image and likeness, and called his name Seth. 
+    4: And the days of Adam, after he begot Seth, were eight hundred years: and he begot sons and daughters. 
+    5: And all the time that Adam lived came to nine hundred and thirty years, and he died.
+    6: Seth also lived a hundred and five years, and begot Enos. 
+    7: And Seth lived after he begot Enos, eight hundred and seven years, and begot sons and daughters. 
+    8: And all the days of Seth were nine hundred and twelve years, and he died. 
+    9: And Enos lived ninety years, and begot Cainan. 
+    10: After whose birth he lived eight hundred and fifteen years, and begot sons and daughters.
+    11: And all the days of Enos were nine hundred and five years, and he died. 
+    12: And Cainan lived seventy years, and begot Malaleel. 
+    13: And Cainan lived after he begot Malaleel, eight hundred and forty years, and begot sons and daughters. 
+    14: And all the days of Cainan were nine hundred and ten years, and he died. 
+    15: And Malaleel lived sixty-five years, and begot Jared.
+    16: And Malaleel lived after he begot Jared, eight hundred and thirty years, and begot sons and daughters. 
+    17: And all the days of Malaleel were eight hundred and ninety-five years, and he died. 
+    18: And Jared lived a hundred and sixty-two years, and begot Henoch. 
+    19: And Jared lived after he begot Henoch, eight hundred years, and begot sons and daughters. 
+    20: And all the days of Jared were nine hundred and sixty-two years, and he died.
+    21: And Henoch lived sixty-five years, and begot Mathusala. 
+    22: And Henoch walked with God: and lived after he begot Mathusala, three hundred years, and begot sons and daughters. 
+    23: And all the days of Henoch were three hundred and sixty-five years. 
+    24: And he walked with God, and was seen no more: because God took him. 
+    25: And Mathusala lived a hundred and eighty-seven years, and begot Lamech.
+    26: And Mathusala lived after he begot Lamech, seven hundred and eighty-two years, and begot sons and daughters. 
+    27: And all the days of Mathusala were nine hundred and sixty-nine years, and he died. 
+    28: And Lamech lived a hundred and eighty-two years, and begot a son. 
+    29: And he called his name Noe, saying: This same shall comfort us from the works and labours of our hands on the earth, which the Lord hath cursed. 
+    30: And Lamech lived after he begot Noe, five hundred and ninety-five years, and begot sons and daughters.
+    31: And all the days of Lamech came to seven hundred and seventy-seven years, and he died. And Noe, when he was five hundred years old, begot Sem, Cham, and Japheth.
+
+  Chapter 6.
+
+    1: And after that men began to be multiplied upon the earth, and daughters were born to them, 
+    2: The sons of God seeing the daughters of men, that they were fair, took to themselves wives of all which they chose. 
+    3: And God said: My spirit shall not remain in man for ever, because he is flesh, and his days shall be a hundred and twenty years. 
+    4: Now giants were upon the earth in those days. For after the sons of God went in to the daughters of men, and they brought forth children, these are the mighty men of old, men of renown. 
+    5: And God seeing that the wickedness of men was great on the earth, and that all the thought of their heart was bent upon evil at all times,
+    6: It repented him that he had made man on the earth. And being touched inwardly with sorrow of heart, 
+    7: He said: I will destroy man, whom I have created, from the face of the earth, from man even to beasts, from the creeping thing even to the fowls of the air, for it repenteth me that I have made them. 
+    8: But Noe found grace before the Lord. 
+    9: These are the generations of Noe: Noe was a just and perfect man in his generations, he walked with God. 
+    10: And he begot three sons, Sem, Cham, and Japheth.
+    11: And the earth was corrupted before God, and was filled with iniquity. 
+    12: And when God had seen that the earth was corrupted (for all flesh had corrupted its way upon the earth,) 
+    13: He said to Noe: The end of all flesh is come before me, the earth is filled with iniquity through them, and I will destroy them with the earth. 
+    14: Make thee an ark of timber planks: thou shalt make little rooms in the ark, and thou shalt pitch it within and without. 
+    15: And thus shalt thou make it: The length of the ark shall be three hundred cubits: the breadth of it fifty cubits, and the height of it thirty cubits.
+    16: Thou shalt make a window in the ark, and in a cubit shalt thou finish the top of it: and the door of the ark thou shalt set in the side: with lower, middle chambers, and third stories shalt thou make it. 
+    17: Behold I will bring the waters of a great flood upon the earth, to destroy all flesh, wherein is the breath of life, under heaven. All things that are in the earth shall be consumed. 
+    18: And I will establish my covenant with thee, and thou shalt enter into the ark, thou and thy sons, and thy wife, and the wives of thy sons with thee. 
+    19: And of every living creature of all flesh, thou shalt bring two of a sort into the ark, that they may live with thee: of the male sex, and the female. 
+    20: Of fowls according to their kind, and of beasts in their kind, and of every thing that creepeth on the earth according to its kind; two of every sort shall go in with thee, that they may live.
+    21: Thou shalt take unto thee of all food that may be eaten, and thou shalt lay it up with thee: and it shall be food for thee and them. 
+    22: And Noe did all things which God commanded him.
+
+  Chapter 7.
+
+    1: And the Lord said to him: Go in thou and all thy house into the ark: for thee I have seen just before me in this generation. 
+    2: Of all clean beasts take seven and seven, the male and the female. 
+    3: But of the beasts that are unclean two and two, the male and the female. Of the fowls also of the air seven and seven, the male and the female: that seed may be saved upon the face of the whole earth. 
+    4: For yet a while, and after seven days, I will rain upon the earth forty days and forty nights; and I will destroy every substance that I have made, from the face of the earth. 
+    5: And Noe did all things which the Lord had commanded him.
+    6: And he was six hundred years old, when the waters of the flood overflowed the earth. 
+    7: And Noe went in and his sons, his wife and the wives of his sons with him into the ark, because of the waters of the flood. 
+    8: And of beasts clean and unclean, and of fowls, and of every thing that moveth upon the earth, 
+    9: Two and two went in to Noe into the ark, male and female, as the Lord had commanded Noe. 
+    10: And after the seven days were passed, the waters of the flood overflowed the earth.
+    11: In the six hundredth year of the life of Noe, in the second month, in the seventeenth day of the month, all the fountains of the great deep were broken up, and the flood gates of heaven were opened: 
+    12: And the rain fell upon the earth forty days and forty nights. 
+    13: In the selfsame day Noe, and Sem, and Cham, and Japheth his sons: his wife, and the three wives of his sons with them, went into the ark: 
+    14: They and every beast according to its kind, and all the cattle in their kind, and every thing that moveth upon the earth according to its kind, and every fowl according to its kind, all birds, and all that fly, 
+    15: Went in to Noe into the ark, two and two of all flesh, wherein was the breath of life.
+    16: And they that went in, went in male and female of all flesh, as God had commanded him: and the Lord shut him in on the outside. 
+    17: And the flood was forty days upon the earth, and the waters increased, and lifted up the ark on high from the earth. 
+    18: For they overflowed exceedingly: and filled all on the face of the earth: and the ark was carried upon the waters. 
+    19: And the waters prevailed beyond measure upon the earth: and all the high mountains under the whole heaven were covered. 
+    20: The water was fifteen cubits higher than the mountains which it covered.
+    21: And all flesh was destroyed that moved upon the earth, both of fowl, and of cattle, and of beasts, and of all creeping things that creep upon the earth: and all men. 
+    22: And all things wherein there is the breath of life on the earth, died. 
+    23: And he destroyed all the substance that was upon the earth, from man even to beast, and the creeping things and fowls of the air: and they were destroyed from the earth: and Noe only remained, and they that were with him in the ark. 
+    24: And the waters prevailed upon the earth a hundred and fifty days.
+
+  Chapter 8.
+
+    1: And God remembered Noe, and all the living creatures, and all the cattle which were with him in the ark, and brought a wind upon the earth, and the waters were abated. 
+    2: The fountains also of the deep, and the flood gates of heaven were shut up, and the rain from heaven was restrained. 
+    3: And the waters returned from off the earth going and coming: and they began to be abated after a hundred and fifty days. 
+    4: And the ark rested in the seventh month, the seven and twentieth day of the month, upon the mountains of Armenia. 
+    5: And the waters were going and decreasing until the tenth month: for in the tenth month, the first day of the month, the tops of the mountains appeared.
+    6: And after that forty days were passed, Noe, opening the window of the ark which he had made, sent forth a raven: 
+    7: Which went forth and did not return, till the waters were dried up upon the earth. 
+    8: He sent forth also a dove after him, to see if the waters had now ceased upon the face of the earth. 
+    9: But she, not finding where her foot might rest, returned to him into the ark: for the waters were upon the whole earth: and he put forth his hand, and caught her, and brought her into the ark. 
+    10: And having waited yet seven other days, he again sent forth the dove out of the ark.
+    11: And she came to him in the evening, carrying a bough of an olive tree, with green leaves, in her mouth. Noe therefore understood that the waters were ceased upon the earth. 
+    12: And he stayed yet other seven days: and he sent forth the dove, which returned not any more unto him. 
+    13: Therefore in the six hundredth and first year, the first month, the first day of the month, the waters were lessened upon the earth, and Noe opening the covering of the ark, looked, and saw that the face of the earth was dried. 
+    14: In the second month, the seven and twentieth day of the month, the earth was dried. 
+    15: And God spoke to Noe, saying:
+    16: Go out of the ark, thou and thy wife, thy sons, and the wives of thy sons with thee. 
+    17: All living things that are with thee of all flesh, as well in fowls as in beasts, and all creeping things that creep upon the earth, bring out with thee, and go ye upon the earth: increase and multiply upon it. 
+    18: So Noe went out, he and his sons: his wife, and the wives of his sons with him. 
+    19: And all living things, and cattle, and creeping things that creep upon the earth, according to their kinds, went out of the ark. 
+    20: And Noe built an altar unto the Lord: and taking of all cattle and fowls that were clean, offered holocausts upon the altar.
+    21: And the Lord smelled a sweet savour, and said: I will no more curse the earth for the sake of man: for the imagination and thought of man's heart are prone to evil from his youth: therefore I will no more destroy every living soul as I have done. 
+    22: All the days of the earth, seedtime and harvest, cold and heat, summer and winter, night and day, shall not cease.
+
+End of day 2.

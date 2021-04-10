@@ -1,0 +1,128 @@
+Day 186:
+
+Reading Proverbs, chapters ['17', '18', '19', '20']:
+
+  Chapter 17.
+
+    1: Better is a dry morsel with joy, than a house full of victims with strife. 
+    2: A wise servant shall rule over foolish sons, and shall divide the inheritance among the brethren. 
+    3: As silver is tried by fire, and gold in the furnace: so the Lord trieth the hearts. 
+    4: The evil man obeyeth an unjust tongue: and the deceitful hearkeneth to lying lips. 
+    5: He that despiseth the poor, reproacheth his Maker; and he that rejoiceth at another man's ruin, shall not be unpunished.
+    6: Children's children are the crown of old men: and the glory of children are their fathers. 
+    7: Eloquent words do not become a fool, nor lying lips a prince. 
+    8: The expectation of him that expecteth, is a most acceptable jewel: whithersoever he turneth himself, he understandeth wisely. 
+    9: He that concealeth a transgression. seeketh friendships: he that repeateth it again, separateth friends. 
+    10: A reproof availeth more with a wise man, than a hundred stripes with a fool.
+    11: An evil man always seeketh quarrels: but a cruel angel shall be sent against him. 
+    12: It is better to meet a bear robbed of her whelps, than a fool trusting in his own folly. 
+    13: He that rendereth evil for good, evil shall not depart from his house. 
+    14: The beginning of quarrels is as when one letteth out water: before he suffereth reproach he forsaketh judgment. 
+    15: He that justifieth the wicked, and he that condemneth the just, both are abominable before God.
+    16: What doth it avail a fool to have riches, seeing he cannot buy wisdom? He that maketh his house high, seeketh a downfall: and he that refuseth to learn, shall fall into evils. 
+    17: He that is a friend loveth at all times: and a brother is proved in distress. 
+    18: A foolish man will clap hands, when he is surety for his friend. 
+    19: He that studieth discords, loveth quarrels: and he that exalteth his door, seeketh ruin. 
+    20: He that is of a perverse heart, shall not find good: and he that perverteth his tongue, shall fall into evil.
+    21: A fool is born to his own disgrace: and even his father shall not rejoice in a fool. 
+    22: A joyful mind maketh age flourishing: a sorrowful spirit drieth up the bones. 
+    23: The wicked man taketh gifts out of the bosom, that he may pervert the paths of judgment. 
+    24: Wisdom shineth in the face of the wise: the eyes of fools are in the ends of the earth. 
+    25: A foolish son is the anger of the father: and the sorrow of the mother that bore him.
+    26: It is no good thing to do hurt to the just: nor to strike the prince, who judgeth right. 
+    27: He that setteth bounds to his words. is knowing and wise: and the man of understanding is of a precious spirit. 
+    28: Even a fool, if he will hold his peace shall be counted wise: and if he close his lips, a man of understanding.
+
+  Chapter 18.
+
+    1: He that hath a mind to depart from a friend seeketh occasions: he shall ever be subject to reproach. 
+    2: A fool receiveth not the words of prudence: unless thou say those things which are in his heart. 
+    3: The wicked man when he is come into the depth of sins, contemneth: but ignominy and reproach follow him. 
+    4: Words from the mouth of a man are as deep water: and the fountain of wisdom as an overflowing stream. 
+    5: It is not good to accept the person of the wicked, to decline from the truth of judgment.
+    6: The lips of a fool intermeddle with strife: and his mouth provoketh quarrels. 
+    7: The mouth of a fool is his destruction: and his lips are the ruin of his soul. 
+    8: The words of the double tongued are as if they were harmless: and they reach even to the inner parts of the bowels. Fear casteth down the slothful: and the souls of the effeminate shall be hungry. 
+    9: He that is loose and slack in his work, is the brother of him that wasteth his own works. 
+    10: The name of the Lord is a strong tower: the just runneth to it, and shall be exalted.
+    11: The substance of the rich man is the city of his strength, and as a strong wall compassing him about. 
+    12: Before destruction, the heart of a man is exalted: and before he be glorified, it is humbled. 
+    13: He that answereth before he heareth sheweth himself to be a fool, and worthy of confusion. 
+    14: The spirit of a man upholdeth his infirmity: but a spirit that is easily angered, who can bear? 
+    15: A wise heart shall acquire knowledge: and the ear of the wise seeketh instruction.
+    16: A man's gift enlargeth his way, and maketh him room before princes. 
+    17: The just is first accuser of himself: his friend cometh, and shall search him. 
+    18: The lot suppresseth contentions, and determineth even between the mighty. 
+    19: A brother that is helped by his brother, is like a strong city: and judgments are like the bars of cities. 
+    20: Of the fruit of a man's mouth shall his belly be satisfied: and the offspring of his lips shall fill him.
+    21: Death and life are in the power of the tongue: they that love it, shall eat the fruits thereof. 
+    22: He that hath found a good wife, hath found a good thing, and shall receive a pleasure from the Lord. He that driveth away a good wife, driveth away a good thing: but he that keepeth an adulteress, is foolish and wicked. 
+    23: The poor will speak with supplications, and the rich will speak roughly. 
+    24: A man amiable in society, shall be more friendly than a brother.
+
+  Chapter 19.
+
+    1: Better is the poor man, that walketh in his simplicity, than a rich man that is perverse in his lips, and unwise. 
+    2: Where there is no knowledge of the soul, there is no good: and he that is hasty with his feet shall stumble. 
+    3: The folly of a man supplanteth his steps: and he fretteth in his mind against God. 
+    4: Riches make many friends: but from the poor man, even they whom he had, depart. 
+    5: A false witness shall not be unpunished: and he that speaketh lies shall not escape.
+    6: Many honour the person of him that is mighty, and are friends of him that giveth gifts. 
+    7: The brethren of the poor man hate him: moreover also his friends have departed far from him. He that followeth after words only, shall have nothing. 
+    8: But he that possesseth a mind, loveth his own soul, and he that keepeth prudence shall find good things. 
+    9: A false witness shall not be unpunished: and he that speaketh lies, shall perish. 
+    10: Delicacies are not seemly for a fool: nor for a servant to have rule over princes.
+    11: The learning of a man is known by patience and his glory is to pass over wrongs. 
+    12: As the roaring of a lion, so also is the anger of a king: and his cheerfulness as the dew upon the grass. 
+    13: A foolish son is the grief of his father: and a wrangling wife is like a roof continually dropping through. 
+    14: House and riches are given by parents: but a prudent wife is properly from the Lord. 
+    15: Slothfulness casteth into a deep sleep, and an idle soul shall suffer hunger.
+    16: He that keepeth the commandment, keepeth his own soul: but he that neglecteth his own way, shall die. 
+    17: He that hath mercy on the poor, lendeth to the Lord: and he will repay him. 
+    18: Chastise thy son, despair not: but to the killing of him set not thy soul. 
+    19: He that is impatient, shall suffer damage: and when he shall take away he shall add another thing. 
+    20: Hear counsel, and receive instruction, that thou mayst be wise in thy latter end.
+    21: There are many thoughts in the heart of a man: but the will of the Lord shall stand firm. 
+    22: A needy man is merciful: and better is the poor than the lying man. 
+    23: The fear of the Lord is unto life: and he shall abide in fulness without being visited with evil. 
+    24: The slothful hideth his hand under his armpit, and will not so much as bring it to his mouth. 
+    25: The wicked man being; scourged, the fool shall be wiser: but if thou rebuke a wise man he will understand discipline.
+    26: He that afflicteth his father, and chaseth away his mother, is infamous and unhappy. 
+    27: Cease not, O my son, to hear instruction, and be not ignorant of the words of knowledge. 
+    28: An unjust witness scorneth judgment: and the mouth of the wicked devoureth iniquity. 
+    29: Judgments are prepared for scorners: and striking hammers for the bodies of fools.
+
+  Chapter 20.
+
+    1: Wine is a luxurious thing, and drunkenness riotous: whosoever is delighted therewith shall not be wise. 
+    2: As the roaring of a lion, so also is the dread of a king: he that provoketh him, sinneth against his own soul. 
+    3: It is an honour for a man to separate himself from quarrels: but all fools are meddling with reproaches. 
+    4: Because of the cold the sluggard would not plough: he shall beg therefore in the summer, and it shall not be given him. 
+    5: Counsel in the heart of a man is like deep water: but a wise man will draw it out.
+    6: Many men are called merciful: but who shall find a faithful man? 
+    7: The just that walketh in his simplicity, shall leave behind him blessed children. 
+    8: The king, that sitteth on the throne of judgment, scattereth away all evil with his look. 
+    9: Who can say: My heart is clean, I am pure from sin? 
+    10: Diverse weights and diverse measures, both are abominable before God.
+    11: By his inclinations a child is known, if his works be clean and right. 
+    12: The hearing ear, and the seeing eye, the Lord hath made them both. 
+    13: Love not sleep, lest poverty oppress thee: open thy eyes, and be filled with bread. 
+    14: It is nought, it is nought, saith every buyer: and when he is gone away, then he will boast. 
+    15: There is gold, and a multitude of jewels: but the lips of knowledge are a precious vessel.
+    16: Take away the garment of him that is surety for a stranger, and take a pledge from him for strangers. 
+    17: The bread of lying is sweet to a man: but afterwards his mouth shall be filled with gravel. 
+    18: Designs are strengthened by counsels: and wars are to be managed by governments. 
+    19: Meddle not with him that revealeth secrets, and walketh deceitfully, and openeth wide his lips. 
+    20: He that curseth his father, and mother, his lamp shall be put out in the midst of darkness.
+    21: The inheritance gotten hastily in the beginning, in the end shall be without a blessing. 
+    22: Say not: I will return evil: wait for the Lord and he will deliver thee. 
+    23: Diverse weights are an abomination before the Lord: a deceitful balance is not good. 
+    24: The steps of man are guided by the Lord: but who is the man that can understand his own way? 
+    25: It is ruin to a man to devour holy ones, and after vows to retract.
+    26: A wise king scattereth the wicked, and bringeth over them the wheel. 
+    27: The spirit of a man is the lamp of the Lord, which searcheth all the hidden things of the bowels. 
+    28: Mercy and truth preserve the king, and his throne is strengthened by clemency. 
+    29: The joy of young men is their strength: and the dignity of old men, their grey hairs. 
+    30: The blueness of a wound shall wipe away evils: and stripes in the more inward parts of the belly.
+
+End of day 186.
